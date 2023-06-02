@@ -1,0 +1,19 @@
+{
+  "name": "font-performance-analyze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.1.1"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}

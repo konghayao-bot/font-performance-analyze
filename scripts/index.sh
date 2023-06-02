@@ -1,0 +1,2 @@
+curl -o data/noto-serif-sc.css -L https://cdn.jsdelivr.net/npm/@fontsource/noto-serif-sc@5.0.2/500.css
+curl -o data/SmileySans.css -L https://ik.imagekit.io/chinesefonts/packages/dyh/dist/SmileySans-Oblique/result.css
