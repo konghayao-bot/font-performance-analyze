@@ -34,9 +34,14 @@ export const FontPerformanceAnalyze = (css: string, renderText: string) => {
       return b.hits - a.hits;
     });
     const hit = sets.reduce((col,cur)=>{
-      return  [col[0]+cur.hits,col[1]+cur.total]
+      if(cur.hits>0){
+        return  [col[0]+cur.hits,col[1]+cur.total]
+      }else{
+        return col
+      }
     },[0,0])
     return {
+      total_char:sets.reduce((col,cur)=>col+cur.total,0),
       hit_rate:[...hit,new BigNumber(hit[0]).div(hit[1]).toString()],
       hit_count:sets.filter(i=>i.hits).length,
       sets
@@ -49,6 +54,7 @@ export const decodeCSS = (css: string) => {
     face: string;
     url: string;
   }[] = [];
+  const totalChar = new Set<number>()
   for (const face of css.match(/@font-face[\s\S]+?\}/g)!) {
     const char = new Set<number>();
     const range = face.match(/unicode-range:(.*(?:[,;]))+/)![1];
@@ -63,9 +69,17 @@ export const decodeCSS = (css: string) => {
           const [start, end] = i.split("-").map((i) => parseInt("0x" + i));
           for (let index = start; index <= end; index++) {
             char.add(index);
+            if(!totalChar.has(index)){
+              char.add(index)
+              totalChar.add(index)
+            }
           }
         } else {
-          char.add(parseInt("0x" + i));
+          const index = parseInt("0x" + i)
+          if(!totalChar.has(index)){
+            char.add(index)
+            totalChar.add(index)
+          }
         }
       });
     collection.push({

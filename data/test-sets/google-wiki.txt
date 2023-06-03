@@ -1,0 +1,792 @@
+维基百科，自由的百科全书
+跳到导航
+跳到搜索
+  关于Google公司开发的搜索引擎，请见“Google搜索”。关于“Google”名字的起源，即大数10100，请见“Googol”。
+谷歌有限公司
+Google LLC
+
+
+Googleplex，Google最初及最大的公司总部
+
+公司类型	子公司
+股票代号	NASDAQ: GOOG
+成立	1998年9月4日，​24年前
+创办人	拉里·佩奇、谢尔盖·布林
+代表人物	桑达尔·皮查伊（CEO）
+总部	 美国加利福尼亚州芒廷维尤Googleplex
+标语口号	汇整全球信息，供大众使用，使人人受惠(To organize the world's information and make it universally accessible and useful.)
+业务范围	 全世界
+产业	互联网、软件、通信设备
+产品	参见Google产品列表
+营业额	▲US$1,825.27亿（2020年）[1]
+息税前利润	▲US$412.24亿（2020年）[1]
+净利润	▲US$402.69亿（2020年）[1]
+总资产	▲US$3,196.16亿（2020年）[1]
+资产净值	▲US$2,225.44亿（2020年）[1]
+所有权者	拉里·佩奇、谢尔盖·布林、埃里克·施密特、XXVI Holdings 
+员工人数	135,301（2020年12月31日）[1]
+主要股东	拉里·佩奇
+
+谢尔盖·布林
+
+FMRLLC（富达投资)
+
+The Vanguard Group（先锋集团）
+
+SSgA（道富环球投资管理公司）
+母公司	Alphabet Inc
+主要子公司	YouTube LLC
+Google AdMob
+Dialogflow
+Kaggle
+Fitbit
+Looker
+AppSheet
+Apigee
+Neverware
+ITA Software
+CyArx Technologies Ltd
+Google FeedBurner
+Crashlytics
+Chronicle Security
+Google Asia Pacific Pte Ltd
+Google Ireland Limited
+Google Brasil Internet Ltda
+Xively
+StratoZone LLC
+BufferBox
+Alooma Ltd
+Google Brand Studio
+Google International LLC
+Google Poland Sp z o o
+Android
+Sigmoid Labs Private Limited
+Google Germany GmbH
+JotSpot
+Orbitera
+CloudSimple Inc
+Google Denmark
+Upstartle LLC
+Mandiant
+网站	about.google 
+
+Google（中文译名：谷歌[6][注 2]）是总部位于美国加州芒廷维尤的跨国科技公司，为Alphabet（字母控股）的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，开发并提供大量基于互联网的产品与服务[8]，其主要利润来自Ads等广告服务[9][10]。Google由在斯坦福大学攻读理工博士的拉里·佩奇和谢尔盖·布林共同创建，因此两人也被称为“Google Guys”[11][12][13]。
+
+1998年9月4日，Google以私营公司的形式创立，目的是设计并管理互联网搜索引擎“Google搜索”。2004年8月19日，Google公司在纳斯达克上市，后来被称为“三驾马车”的公司两位共同创始人与出任首席执行官的埃里克·施密特在此时承诺：共同在Google工作至少二十年，即至2024年止[14]。Google的宗旨是“整合全球信息，供大众使用，使人人受益”（To organize the world's information and make it universally accessible and useful）[15]；而非正式的口号则为“不作恶”（Don't be evil），由工程师阿米特·帕特尔（Amit Patel）所创[16]，并得到了保罗·布赫海特的支持[17][18]。Google公司的总部称为“Googleplex”，位于美国加州圣克拉拉县的芒廷维尤。2011年4月，佩奇接替施密特担任首席执行官[19]。在2015年8月，Google宣布进行资产重组。重组后，Google划归新成立的Alphabet底下。同时，此举把Google旗下的核心搜索和广告业务与Google无人车等新兴业务分离开来[20]。
+
+Google自创立起开始的快速成长同时也带动了一系列的产品研发、并购事项与合作关系，而不仅仅是公司核心的网络搜索业务。Google公司提供丰富的线上软件服务，如云硬盘、Gmail电子邮件，包括Orkut、Google Buzz以及Google+在内的社交网络服务。Google的产品同时也以应用软件的形式进入用户桌面，例如Google Chrome网页浏览器、Picasa图片整理与编辑软件、Google Hangouts即时通讯工具等。另外，Google还进行了移动设备的Android操作系统以及Google Chrome OS操作系统的开发。[21]其安卓系统至今为止仍是移动端的主要操作系统之一。硬件系列方面，则有Google Pixel手机及平板电脑，穿戴设备如Google Pixel Watch及Google Pixel Buds等。
+
+目录
+1	历史
+1.1	创建
+1.2	上市
+1.3	成长
+1.4	并购与合作
+1.5	Alphabet
+2	产品与服务
+2.1	广告
+2.2	搜索引擎
+2.3	工作工具
+2.4	企业产品
+2.5	社交网络服务
+2.6	浏览器
+2.7	操作系统
+2.8	电子商务
+2.9	其他产品
+3	企业事务和文化
+3.1	雇员
+3.2	办公地点
+3.3	数据中心
+3.4	愚人节玩笑和复活节彩蛋
+3.5	Doodles
+3.6	慈善事业
+3.7	网络中立性
+3.8	隐私
+3.9	互联网自由
+3.9.1	关闭Google.cn搜索服务
+3.9.2	反对管辖互联网
+4	争议
+5	故障
+6	参见
+7	注解
+8	参考文献
+9	参考来源
+10	外部链接
+10.1	社交网络谷歌官方账号
+历史[编辑]
+创建[编辑]
+1998年，Google的早期页面很简洁，当时两位创始人在HTML方面并不是很有经验[22]。在互联网档案馆上可以查看Google 1999年时的外观
+
+1996年1月，加州斯坦福大学理学博士生的拉里·佩奇和谢尔盖·布林在学校开始研究一项关于搜索的研究项目。[23]区别于传统搜索根据关键字在页面中的出现次数来进行结果排序的方法，两人开发了一个对网站之间的关系做精确分析的搜寻引擎。[24]这个名为PageRank的引擎通过检查网页中的反向链接以评估站点的重要性，此引擎的精确度胜于当时的基本搜索技术。[25][26]最初，佩奇和布林将这个搜索引擎命名为“BackRub”，直到后来改为“Google”。[27][28][29]这个新名字来源于一个数学大数古戈尔（googol，数字1后有100个0，即自然数10100）单字错误的拼写方式，[30][31][32]象征着为人们提供搜索海量优质信息的决心。[33] Google搜索引擎在斯坦福大学的网站上启用，域名为google.stanford.edu。[34]
+
+1997年9月15日，两人注册了Google域名。[35]1998年9月4日，佩奇和布林在加州门洛帕克一位朋友家的车库内创建了Google公司，克雷格·西尔弗斯坦（Craig Silverstein）同为斯坦福大学的博士生是公司的首位雇员。[23][36][37][38][39]
+
+上市[编辑]
+Google的第一台产品服务器，用廉价的硬件建造而成[40]
+
+佩奇和布林在Google项目上最早获得投资是在1998年8月，Sun Microsystems的联合创始人安迪·贝托尔斯海姆给了两人一张十万美元的支票来用于搜索引擎的开发和运营，当时Google公司还尚未成立。[41]到1999年，由于搜索引擎的开发花费了太多的学习时间，佩奇和布林甚至考虑将其出售。两人找到Excite公司CEO乔治·贝尔（George Bell）提出一百万美元的收购价。尽管Excite的风险投资人维诺德·科斯拉在与Google的两位创始人谈判后将价格降低到75万美元，但仍被贝尔拒绝了。1999年6月7日，包括Kleiner Perkins公司和红杉资本在内的投资者为Google注资两千五百万美元。[41][42]
+
+Google在2004年8月19日进行了首次公开募股，公司发行了19,605,052份每股价值85美元的股票。[43][44]股票由摩根斯坦利和瑞士信贷集团承销，以网上拍卖的形式发售。[45][46][47] IPO后，Google公司的市值迅速上涨到超过230亿美元，而Google仍然控制着27182万（2.718281828和数学常数e有关）股票中的大多数股份，许多Google公司的雇员也在瞬间变成亿万富翁。而作为竞争对手的雅虎，也因为在Google上市前持有840万股票而受益。[48]
+
+有人怀疑Google公司的企业文化在上市后，会由于董事会施压或高管们的暴富而不可避免地被改变。[49]两位创始人拉里·佩奇和谢尔盖·布林则在一份报告中承诺，上市不会影响Google的公司文化，以作为对潜在投资者们的怀疑所做的回应。[50]2005年，纽约时报等媒体撰文指出Google已经丧失了原来不作恶的哲学。[51][52][53]在此之下，为了保持与众不同的企业文化，Google专门指派了一位首席文化官，来为Google构建和维护企业内部广泛协助的扁平化组织，及其所产生的核心价值。[54] Google也面临前员工性别歧视和年龄歧视的指控。[55][56]
+
+首次公开募股之后，Google的股票形势良好，2007年10月31日，受益于在网络广告市场的强势盈利，[57]股价首次超过700美元。[58]相比大型的机构投资基金和共同基金，Google股票的股价的变动更多地是由个人投资者们所影响。[57]在2015年第四季起，Google的上市地位由母公司Alphabet Inc.取代（股票代号分别为NASDAQ：GOOG、NASDAQ：GOOGL）。
+
+成长[编辑]
+
+1999年3月，Google公司将办公场所搬至加州的帕罗奥多，这里是众多知名的硅谷初创公司所在的地方。[59]翌年，Google开始以出售搜索关键词的广告，[23]但这一做法与佩奇和布林以广告赞助搜索的意愿相违背。[60]为了保持页面简洁的设计，提高搜索速度，广告只会以基于文本的形式出现。关键词的出售结合点击次数和价格的竞标，竞标起价为每次点击5美分。[23]这种出售广告关键词的模式最早来源于Goto.com——一个由比尔·葛罗斯的Idealab企业孵化器派生的网站。[61][62]之后Google受到了这家改名为Overture Services的公司对于次广告出售专利技术侵权的指控。2003年，Overture Services被雅虎收购，并被改名为雅虎搜索营销。最终，雅虎与Google在庭外达成和解：Google用普通股股份换取此专利的永久授权。[63]
+
+2001年，Google获得了PageRank的专利权，[64]这项专利被正式颁与斯坦福大学，劳伦斯·佩奇（即拉里·佩奇）为专利发明人。2003年，在发展了两处办公地点以后，公司又向硅谷图形公司租赁了位于芒廷维尤目前所在的综合办公楼。[65]这处办公地点被戏称为“Googleplex”，数学大数古戈尔普勒克斯（googolplex）单词的变体。三年后，Google以三亿一千九百万的价额向硅谷图形公司买下了这里的产权。[66]在这段时间内，google这个单词逐渐进入各类语言当中，也使得“google”作为动词被收入至梅里亚姆-韦珀斯特词典和牛津英语词典内，释义为“使用Google搜索引擎在互联网上获取信息”（to use the Google search engine to obtain information on the Internet）。[67][68]
+
+2011年5月，Google的月独立访客数量首次超过十亿，与一年前同期的9亿3100万相比增长8.4%。[69] Google也是首个获取该数据里程碑的网站。[70]
+
+并购与合作[编辑]
+主条目：Google公司收购列表
+Google公司的“三驾马车”：埃里克·施密特、拉里·佩奇和谢尔盖·布林
+
+自2001年始，Google已收购了许多企业，其中尤以小型风投公司为主。2004年7月13日，Google收购照片整理与编辑软件Picasa，[71]同年10月又吞并了Keyhole公司。[72]这家初创公司开发出一个名为Earth Viewer的产品，供用户以3D的视角观察地球。一年后，Google将此服务改名为Google地球。2005年，成立仅22个月的高科技企业Android被Google相中，被收购并成为Google麾下的移动设备操作系统。2006年10月，Google宣布以16.5亿美元的股票收购在线视频分享网站YouTube，并于11月敲定。[73]2007年4月13日，Google与DoubleClick达成协议，DoubleClick以31亿美元的价格被Google收购，并成为后者旗下的一家网络出版与广告商。[74]同年，Google以5千万美元并购了GrandCentral，后来将其改造为Google Voice。[75]2009年8月5日，Google以1亿650万美元买断视频软件制造公司On2 Technologies。[76]2010年，Google将Aardvark (搜索引擎)纳入旗下，出价为5千万美元，并在内部博客中写道：“我们很期待将其集成进我们的产品中”。[77]同年，Google又大举并购了ITA Software、Slide、Like.com等。[78][79][80][81]2011年，Google继续大笔的收购之路，业已将SageTV[82]等十余家美国和欧洲的企业或团队招致麾下。2011年8月15日，Google官方宣布将以每股40美元现金，总额约125亿美元收购摩托劳拉移动。[83]
+
+除了收购的方式以外，Google也积极地与其他公司或组织进行合作，从科研到商业广告，都是开展合作所涉及的领域。2005年，Google与美国国家航空航天局艾姆斯研究中心合作建设了用于囊括了大规模数据管理、纳米技术、分布式计算、航空航天产业等科研项目的场所，占地约93000平方米。[84] 2005年10月，Google与Sun Microsystems交换并分享了各自的技术。[85] Google也和AOL及时代华纳达成商业伙伴关系，以增强各自视频搜索服务的质量。[86] 2005年，Google与微软、诺基亚、爱立信联手，为顶级域名.mobi融资。[87]而后Google启动了Adsense for Mobile，开拓移动广告市场。2006年，新闻集团旗下的福克斯互动媒体同Google达成一份9亿美元的协议，Google为社交网站MySpace提供搜索与广告业务。[88] 2007年，Google与34家手机制造商、芯片制造商、软件开发商和电信运营商一同创建了开放手机联盟，开发Android系统与苹果iOS、微软Windows Phone等移动平台竞争。[89]
+
+2013年9月11日Google将伙拍哈佛大学和麻省理工（MIT）组成的网上教育平台edX，发展网上教学课程，任何人都可将课程放入网络中。
+
+Alphabet[编辑]
+
+在2015年8月10日，Google宣布要组织重整为控股公司Alphabet，Google则会是Alphabet公司旗下最大的子公司。重整完成以后，孙达尔·皮柴会接任成为Google的首席执行官。
+
+2015年10月，谷歌公司投资中国人工智能（artificial intelligence，AI）公司——Mobvoi。 [90]
+
+2017年6月9日，日本科技巨头软银宣布，公司已经收购谷歌母公司Alphabet旗下的人形机器人公司波士顿动力（Boston Dynamics）以及谷歌旗下另一家日本人形机器人公司Schaft。[90]
+
+2019年6月6日，谷歌以26亿美元的价格收购数据分析平台Looker。 [90]
+
+2019年11月，Alphabet宣布将以 21 亿美元收购可穿戴公司Fitbit。 [90]
+
+2020年4月，由于COVID-19 大流行，谷歌宣布了多项削减成本的措施。这些措施包括在 2020 年剩余时间内放缓招聘，少数战略领域除外，重新调整数据中心和机器以及非商业必要营销和旅行等领域的投资重点和步伐。
+
+产品与服务[编辑]
+主条目：Google产品列表
+广告[编辑]
+AdWords广告
+
+Google九成以上的营收来自其广告系统。[91]如2006年财政年度，公司财报显示104.92亿美元的收入中只有1.12亿来自于非广告收入。[92]为了保持在网络广告代理市场中执牛耳的地位，Google不断实施各种新的手段。例如Google在收购DoubleClick后获取技术，得以获取用户兴趣和确定广告目标。[93][94]Google Analytics可以让网站站长们查看并追踪访问者在何时，以何种方式访问自己的网站，如检查某一页面上所有链接的点击等。[95] Google的广告系统由两个部分组成，通过第三方网站来放置。AdWords为广告客户提供在网络中展示广告的服务，按点击或显示收费；AdWords的姊妹项目AdSense，允许网站站长在自己的网页中提供广告展示的位置，并参与分成。
+
+但Google也由于在网络广告系统中反点击欺诈管理的欠缺而受到诟病——当一个并不是出于对广告中产品感兴趣的访客或一个自动脚本故意点击该则广告后，会引起广告客户过多支付广告费用。2006年的行业报告指出，约有14%至20%的点击属于欺诈点击或无效点击。[96]另一个对Google广告业务的批评来自于对广告客户的审查，有些被怀疑违反数字千年著作权法。2003年2月，Google停止了对一个名为Oceana的非营利组织的（抗议大型油轮不合理的污水处理）广告展示。Google引用其编辑政策解释：“Google不接受广告或网站内容为宣扬反对其他个人、团体或组织的广告。”[97]该政策却在随后即被更改。 2008年6月，在美国司法部鉴于反托拉斯的促使之下，Google与雅虎两大巨头达成广告协议，雅虎在自己的网站页面上显示Google广告。但最终Google又在2008年11月撤出该协议。[98][99]
+
+为了推销自己的产品，Google启动了一个名为Demo Slam的网站以展示自有产品的技术示范。[100]每一周都会有两个团队竞相把Google的新产品公布到网站上。《搜索引擎杂志》撰文写道：Demo Slam是“创作者和技术娴熟的人们制作视频来使世界上其他人类了解最新最伟大技术的地方”。[101]
+
+搜索引擎[编辑]
+主条目：Google搜索
+2015年Google的新主页[102]
+
+Google搜索是Google公司重要也是最普及的一项功能，是多个国家内使用率最高的互联网搜索引擎。根据comScore2009年11月公布的市场统计，Google在美国搜索引擎市场上占有率为65.6%。[103] Google抓取数十亿的互联网网页，因此用户能通过搜索关键词等操作较为轻松地获取想要搜寻的信息。[104]除了最基本的文字搜索功能之外，Google搜索还提供至少22种特殊功能，[105][106]如同义词、天气预报、时区、股价、地图、地震数据、电影放映时间、机场、体育赛事比分等。Google搜索在搜索与数字相关的信息时又会有另一些特殊功能：如单位换算、货币换算、数字运算、包裹追踪、地区代码。[105]同时，Google也为搜索页面提供语言翻译功能。2011年，Google先后推出语音搜索和图片搜索。[107]
+
+尽管Google搜索很受大众喜爱，但也有组织对它发出批评的声音。2003年，纽约时报声称Google对其网站抓取与形成的缓存侵害了网站内容的著作权。[108]在这个问题上，内华达地方法院审理了相关的Field v. Google和Parker v. Google两个案件，Google成功地为自己作了辩护，推翻了指控。[109][110]
+
+工作工具[编辑]
+
+除了强大的搜索引擎以外，Google也研发了许多在线的工作辅助工具。Gmail是Google开发的一个免费电子邮箱服务，于2004年4月1日进入Beta阶段，[111] 2007年2月7日正式面向大众开放。[112]直到2009年7月7日，Gmail才结束其漫长的Beta阶段，[113]当时已有1.64亿用户使用。[114] Gmail是首个拥有1GB存储空间的网络电子邮箱，也是第一个以单线程会话保存邮件的的电邮，这与网络论坛相似。[111]目前，Gmail提供给每个免费用户15GB的邮箱容量，付费用户可缴纳每年每GB 0.25美元的费用来将容量提升至20GB至16TB。[115] Gmail也是AJAX技术开拓的先行者，该技术使人们不用手动刷新浏览器显示就能看到新的网页信息。[116]
+
+Google工作包的另一部分——Google文档，与微软的Microsoft Word不同，它允许用户在在线环境下新建、编辑或协同编辑文件。这项服务原名为Writely，但在2006年3月9日被Google收购。[117]6月6日，Google创建了一个实验性的电子表格编辑项目，[118]在随后的10月10日被集成进Google文档中。[119] 2007年9月17日，编辑演示文稿的功能也被加入Google文档。[120] 2009年7月7日，包括三项功能在内的Google文档与Gmail、Google日历一起组成Google Apps工作包。[113]
+
+企业产品[编辑]
+2008年RSA大会上陈列的Google Search Appliance
+
+2002年2月，Google向企业市场推出一款名为Google Search Appliance的设备，针对大型组织机构提供搜索技术。[23]三年后Google又推出Google Mini以适应中小型企业。2006年，又推出子自定义搜索商务版，2008年改名为Google协作平台。[121]
+
+另一个Google的企业产品是Google Apps专业版。Google Apps专业版和标准版及教育版同为Google Apps的不同版本，为企业、学校和其他组织提供自身域名下的Gmail、Google文档等在线应用服务。与标准版相比，专业版有着更多的功能，例如更多的磁盘空间、API准入和高级支持，每个账户收费为每年50美元。Google较早在加拿大安大略省桑德贝的湖首大学推广Google Apps业务，有超过3万8千名用户。在推出Google Apps的同年，Google收购了Postini公司，[122]得以将其原有的安全技术以Google Postini Services之名集成进Google Apps中。[123][124]
+
+社交网络服务[编辑]
+主条目：Google+、Blogger和YouTube
+
+Google曾多次试图进入SNS领域但多次碰壁，失败的例子不乏Google Wave、Google Buzz，[125]而Orkut只在印度和巴西获得了较大市场。[126]在经历多次挫折之后，2011年，Google发布新的社交网站Google+。[127]这个新型的社交网站有着社交“圈子”、多人视频聊天、“灵感话题”等多种新型的特色，[128]在测试阶段用户数量便突飞猛进，仅2个星期就超越了1000万。[129][130]相比较之下，Twitter和Facebook过去分别用了780天和852天才达到这个数字。[131]推出以来的第三周，Google+的用户数量旋即又翻至2000万。[132]但即便如此，Google仍宣布2019年4月2日他们将会关闭消费者（个人用户）版本的Google+，代表Google再次于进入SNS领域中尝到挫败。[133]
+
+2003年，Google收购了Pyra Labs创建的博客服务网站Blogger。收购完成后，Google依旧保留了Blogger这一独立的品牌，并在blogspot.com主机下为用户提供免费博客发布与存放服务。[134] 2007年5月，Blogger的数据全部搬至Google的服务器中，并在当年的独立访客流量50强域名中排在第16位。[135]在Google较为成功的运营下，Blogger一直保持着全球最大的博客网站的头衔。[136] 2011年7月，有传闻透露，作为重命名或取消非Google品牌计划的一部分，Google公司有意将“Blogger”名称改成“Google Blogger”。[137]
+
+2005年2月，三位前PayPal员工创建了视频分享网站YouTube。[138]在显露出自身价值后，YouTube被Google以16.5亿美元收购，成为后者旗下的子公司。YouTube公司地址位于加州的圣布鲁，以Flash Video和HTML5技术记录播放用户上传的电影、电视剧剪辑和音乐视频，以及用户原创制作的业余视频作品。大部分发布在YouTube网站上的视频都是由个人所上传的，但也有哥伦比亚广播公司、英国广播公司、VEVO、Hulu等作为合作伙伴的媒体企业在YouTube网站上发布视频。[139] YouTube的模式获取巨大的成功，目前仍是世界上最大和最热门的视频分享网站。[140] 根据2020年的营销统计 （页面存档备份，存于互联网档案馆）结果显示，每月有19亿登录用户访问YouTube，全球每天会观看十亿小时的视频。 YouTube使用80种不同的语言，并且在91个不同的国家/地区拥有本地版本。虽然是美国公司， 但来自美国的访问量只占总访问量的15.8%， YouTube是全球现存第二大访问量的网站。
+
+浏览器[编辑]
+
+Google Chrome是Google以WebKit排版引擎开发的一款开源的网页浏览器，从Chrome 28开始使用Blink引擎。2008年，Google公司发布了该浏览器大部分的源代码，包括V8 JavaScript引擎的开源项目Chromium。[141][142]这一举动使得第三方的开发者们能够获取底层源代码，促使浏览器与Mac OS X或Linux操作系统的端口对接。Google官方同时也表达了希望其他浏览器能够采用V8引擎以提升web应用程序的性能。[143] Google在Chromium的创作上按照BSD许可证条款，[144]使得这部分内容几乎属于公有领域，有着很高的兼容性。[145]而其他部分的内容则遵循一系列的开源许可证。[146] Chromium的特性与Chrome基本相似，但没有内置的自动更新功能。另外，Chromium也没有Google商标的印记，与Chrome四色的Logo最明显的区别是其蓝色的标识。[147][148]
+
+2008年9月2日，Google推出在Windows上Beta版的Google Chrome，稳定版本则在12月11日推出。[149] 2011年，根据StatCounter的统计，Chrome以20.65%的浏览器市场份额排在IE和火狐之后跃至第三位。[150][151]2011年7月11日，Chrome在英国的市场份额达到22.12%，而Firefox仅占21.65%，这是Chrome首次在地区的统计中超越Firefox。[152]2012年5月21日，Chrome在全球范围内占有率达到33%，超越IE位居首位，[153]直到2018年7月，Chrome在全球范围内占有率已达到66%。
+
+操作系统[编辑]
+主条目：Android和Chrome OS
+Android的商标为一个绿色的机器小人的造型
+
+2007年，Google正计划开发自己的移动设备与苹果的iPhone竞争的报道逐渐浮出水面。[154][155][156]后来证实该项目名为Android，并非手机的名称，而是一款移动设备的操作系统。Android于2005年被Google收购，并发展为Apache许可证下的开源项目，[157]同时Google为开发者们提供了软件开发工具包以便开发出在Android手机上运行的应用，并拉拢了世界上多家手机制造商、电信运营商、软件开发商等，组建了开放手机联盟以共同开发Android系统。[158] 2008年9月，T-Mobile发布第一款运行Android系统的手机G1（HTC dream的T-Mobile定制版）。[159] 2010年1月5日，Google公司发布自有的一款手机，名为Nexus One。[160]在2010年第四季度的Canalys分析报告中，Android被列为全世界最畅销的智能手机操作系统。[161][162]
+
+Android是市占率最高的移动操作系统
+
+Android有着数目庞大的应用软件，得以大大扩充其系统功能。目前，能在Android上运行的应用软件超过了75万种，[163][164]并仍处于高速增加的过程中。Google Play是Google运营的电子应用软件商店，但用户也可以从第三方下载与安装软件。开发者们主要用Java语言编写软件，并通过Google开发的Java库来使应用软件适配系统。[165]
+
+2009年7月7日，Google宣布正在开发基于Linux的操作系统Google Chrome OS，[166][167]该操作系统运行于只含有网页浏览器的上网本上。[168][169]11月19日，Google公司开始发布Google Chrome操作系统的开发版本，名为Chromium OS。Chromium OS与Chromium浏览器类似，遵照BSD许可证的条款。[170]
+
+与Chromium OS从下载的源代码可被编译不同，Chrome OS只适配搭载在Google的合作生产商的硬件上。与Chrome浏览器相似，Chrome OS的用户界面很简洁化。这款操作系统的目标是将用户用在电脑上的时间尽量的分配在互联网之上，因此搭载Chrome OS系统的设备上，附带应用程序数量比较少，且都与网页浏览器相关。[166][171][172][173][174]
+
+2011年5月Google I/O大会上宣布，最先上市的Chromebook上网本是由宏碁和三星在同年的7月15日推出。[175]2013年7月24日Google推出“更薄、更轻、更快”的第二代Nexus 7平板电脑，以及可作Wi-Fi流在电视播放平板电脑画面的“电视棒”Chromecast。
+
+电子商务[编辑]
+
+Google Checkout是一项简化在线购物支付的服务。[176]2006年6月28日和翌年的4月13日分别在美国和英国开放。2011年，Google公司宣布团购业务Google Offers，与Groupon等网站展开正面竞争。[177]4月21日，美国俄勒冈州的波特兰成为该团购业务于测试阶段的首个开放城市，[178]7月12日Google又将服务范围扩张到纽约商业区和旧金山湾区。[179]9月，Google在中国开通团购网站“谷歌时惠”；在欧洲团购市场，Google收购了德国团购网站DailyDeal。Google又推出Google Wallet手机应用，[180]涉足无线支付和近场通讯领域。
+
+其他产品[编辑]
+一台笔记本电脑用无线网络连上Google
+
+Google翻译是一个服务器端的机器翻译服务，可以翻译103种不同的语言。[181]浏览器通过安装相应扩展即能实现在浏览器中使用Google翻译。Google翻译的软件使用语料库语言学技术，程序会向专业的翻译文件资料“学习”，例如参考联合国或欧洲议会的会议事项记录。[182]
+
+2002年，Google推出Google新闻服务。当时，Google宣布制造了一个“极不寻常的”网站，可以“在只靠电脑算法而没有人工干预的情况下编选和提供新闻，Google并没有雇佣任何编辑。”[183]
+
+2008年5月，Google在中国大陆收购了上网导航服务265导航，进一步拓展了其在中国大陆的业务。
+
+2011年10月6日，Google推出Google云平台(Google Cloud Platform)。该平台是一项使用了Google核心基础架构、数据分析和机器学习技术的云计算服务。
+
+2012年7月，Google正式推出光纤宽带服务Google光纤，率先在美国堪萨斯城试验一套超高速网络系统，可以同时提供上网及有线电视服务。[184]
+
+企业事务和文化[编辑]
+
+Google公司一直以其轻松随意的企业文化著称于世。在2007年、2008、2012年[185]的《财富》杂志最适合工作的企业排行榜中位列榜首，[186][187] 2009年和2010年则位居第四位。[188][189]同时，Google在Universum的通信人才的吸引力指数中被列为世界上大学毕业生最向往的雇主。[190] Google的网站声称，公司的企业哲学在其一些看上去漫不经心的信条中展现得淋漓尽致，如“无需作恶，也可赚钱”、“无需西装革履，也可认真执著”[191]、“工作充满着挑战而挑战充满欢乐”等等。[192]
+
+雇员[编辑]
+Google的新员工被称为“Nooglers”，在第一个周五的时候，他们会戴上一顶螺旋桨豆豆帽[193]
+
+自上市后Google股票的良好涨势使许多早期员工获得丰厚的回报。[194] IPO之后，创始人拉里·佩奇、谢尔盖·布林和前CEO埃里克·施密特主动要求将他们自己的基本薪水降至1美分，随后公司将他们的资薪调低，而他们的收入主要来自于持有的Google股票。2004年以前，施密特每年收入为25万美元，佩奇和布林则为15万。[195]
+
+2007年至2008年初，有多位Google高管离任。2007年10月，YouTube前首席财务官吉迪昂·余同高级工程师本杰明·林一道跳槽至Facebook。[196][197] 2008年3月，雪莉·桑德伯格，当时的全球网络销售与运营副总裁，也离开Google，在Facebook担任首席财务官一职。[198]另外，阿什·艾尔迪佛莱威——前品牌广告负责人前往Netshops公司（一家网络零售企业，在2009年更名为Hayneedle）担任首席营销官。[199] 2011年4月4日，拉里·佩奇重任首席执行官（Chief Executive Officer），施密特改任执行董事长（Executive Chairman）。[200]
+
+Google有一个称为“创意休息时间”（Innovation Time Off）的政策，允许工程师花20%的工作时间做自己想做的事情，以此来激励更多、更广泛的创新，而这项政策也确确实实激发出了Gmail、Google新闻、Orkut、AdSense等产品的创意。[201] Google的搜索产品和用户体验副总裁玛丽莎·梅耶尔曾在一次斯坦福大学的访谈中展示过当时半数来源于“创意休息时间”的产品。[202]
+
+2011年3月，Universum的问卷调查报告显示，Google以接近25%的选择率成为年轻人最向往的雇主。[203]
+
+办公地点[编辑]
+主条目：Googleplex
+Googleplex，Google公司的总部
+
+Google在美国加州芒廷维尤的总部被昵称为“Googleplex”，数学大数古戈尔普勒克斯（googolplex，数字1后有10100个0，即自然数1010100=10googol）单词的变体。总部本身也是一栋错综复杂的综合性建筑。大厅用一架钢琴、熔岩灯、老旧的服务器装饰，墙上还有一副搜索请求的投影。门厅则布满了健身球和自行车。建筑内还有娱乐中心供公司员工休闲娱乐，健身房、更衣室、洗衣干衣机、按摩室、配套游戏机、桌上足球、小型三角钢琴、台球桌、乒乓球桌等等日常生活或娱乐设施设备散布在大楼内部。除此以外，Googleplex有着一个填满食物和饮料的餐厅，食物都以重视营养为重点。[204]餐厅和自动售卖机每周七天，每天二十四小时免费向员工开放。[205]
+
+Google公司的在纽约的办公大楼
+
+2003年，为了包括Google地图等项目，Google增加了一支在纽约的工程师队伍。2006年，Google在纽约市的办公地址搬进了位于曼哈顿第八大道的面积为28900平米的新大楼，目前容纳着公司最大的广告销售团队。[206]而这处办公大楼的设计与功能也与Googleplex有着相似之处，甚至同样有着桌上足球、桌上冰球、乒乓球台和电子游戏机。2006年11月，公司在匹兹堡卡内基梅隆大学校区的办公场所开张，Google在这里的工作主要是购物广告代码和智能手机应用。[207][208] 06年底，Google又在密歇根州的安娜堡为AdWords添置了一处新的总部。[209]此外，Google的办公场所遍布全世界，仅在美国就包括亚特兰大、奥斯汀、旧金山、西雅图、华盛顿等多处。
+
+Google对环境保护抱有相当高的热忱。2006年10月，Google公司宣布投资建造太阳能发电项目的计划，建成后可为Googleplex提供产生1.6兆瓦的电力，满足接近30%的用电需求。[210]这套发电系统成为了全美最大的企业发电系统，也跻身世界最大的企业发电系统之一。[210]在2009年，Google租赁了一群山羊来为Googleplex周围的草地除草。这个方法既能防止季节性的丛林火灾，也可以大大减少大面积除草所产生的碳排放。[211][212]据透露这个用山羊修剪草坪的点子来自于一位名叫R·J·韦勒的美国国家半导体有限公司的工程师。[213]尽管如此，Google依旧遭到了《哈泼斯》杂志对于能源极端过度使用的指责，同时被指控打着“不作恶”口号和公开举行节能活动的幌子来掩盖企业所运行的服务器实际对能源的海量需求。[214]
+
+数据中心[编辑]
+
+Google公司因应全球用户的需求，在美国及世界各地创建数据中心。至2013年底，Google公司已在美国（6处）、智利、比利时、爱尔兰、芬兰、新加坡及台湾设有共12处数据中心，另还有其他数据中心筹建中[215]。
+
+其中台湾数据中心是Google在亚洲最大的数据中心[216]，以进军亚洲的云产业[217]，而该数据中心有机器人为主题[218]。
+
+大多数数据中心的业主基于信息安全考量，极少透露其数据中心的信息以及内部信息。不过Google公司曾于2012年在其网站设立专栏，公开了各地数据中心的内部照片及部分街景图，让外界一窥其资料中心的神秘面纱。[219]
+
+据估计，Google在全世界的数据中心内运营着上百万台的服务器，[220]每天处理数以亿计的搜索请求[221]和约24PB用户生成的数据。[222][223][224][225]
+
+愚人节玩笑和复活节彩蛋[编辑]
+主条目：Google玩笑和复活节彩蛋列表
+Google所推出的“Google厕所”产品的“控制器”
+
+Google在每年的愚人节有制造玩笑的传统。2000年愚人节，Google推出MentalPlex（意念搜索），号称能以思维意念的力量来进行网络搜索。[226] 2007年，Google则宣传发布一套名为TiSP（厕所互联网服务提供者）的免费服务，用户可以凭借将Google所提供的光导纤维电缆的一头冲到厕所下水管道之内来获取宽带服务。[227]同在2007年，Google在Gmail页面上展示即将推出Gmail Paper服务的提示，称将可以满足替用户把邮件打印到纸上并运送给收件人的要求。[228] 2008年，Google说Gmail的用户将可以更改已发送邮件的发送时间。[229] 2010年的愚人节，为了回应堪萨斯首府托皮卡城市长之前为了申请Google光纤而颁布法令将城市名暂时改为Google，Google戏剧性地把公司名改为Topeka以纪念该城市。[230][231] 2011年的玩笑则名为Gmail运动，号称用户可以通过摄像头前做肢体运动来控制Gmail或计算机。[232] 2013年的愚人节则推出Google嗅觉，号称为一个测试版的香味数据库，使用户可以透过大部分的屏幕闻到各种味道。[233]
+
+除了在愚人节会开一些玩笑之外，制作彩蛋也是Google的保留项目。例如Google在搜索引擎的语言选择上非常滑稽的加入了提线木偶剧丹麦厨师中的“Bork bork bork”语言、儿童黑话、黑客语、卡通人物Elmer Fudd的语言、《星际迷航》中的克林贡语等等。[234] Google搜索还能够计算并提供生命、宇宙以及任何事情的终极答案（The answer to life, the universe, and everything，出自于道格拉斯·亚当斯的科幻小说《银河系漫游指南》）。[235]此外，当一个人搜索单词“recursion”（递归）时，系统中的拼写检查会给你一个“纠错”链接，显示的建议依旧是“recursion”这个单词然后一直如此循环。[236]类似的彩蛋还有，当搜索单词“anagram”（一种颠倒字母顺序的字谜）时，Google提供的建议会显示“你是不是在找nag a ram？”[237]如果Google地图中在间隔大片水域的两个地点之间搜寻路线，比如从洛杉矶到东京，搜索结果会建议“划独木舟穿越太平洋”。如果你在Google搜索上搜索"do a barrel roll"，页面会顺时针旋转一圈（按这里 （页面存档备份，存于互联网档案馆）以查看实际效果）。在2010年世界杯足球赛期间，搜索关键词若是“世界杯”、“FIFA”等，就会导致Google页面底部原为“Goooo...gle”的页面指标变成“Goooo...al!”。[238]
+
+Doodles[编辑]
+参见：Google商标和Google涂鸦
+
+自从BackRub时代起，Google已经有过许多品牌标识，现今Google公司的官方标志是露丝·基达以Catull设计一个文字商标[239]。除了这个主要的商标之外，Google经常会在节日、名人诞辰日或重大事件（如奥运会）发生的时候把标志作修改后替代原商标放在网站上[240]。这些特殊的标志被称为“Google Doodles”（“谷歌涂鸦”）。截至目前，Google已经制作和更换了超过1000个doodles[241]。
+
+2010年5月21日，为了纪念街机游戏吃豆子30周年，Google在与南梦宫交流之后将标志改成了可以玩吃豆子游戏的迷宫地图。[242]这个小游戏还有着与原版一样的音效。“手气不错”（I'm Feeling Lucky）键则被“投入硬币”（Insert Coin）键所暂时取代。按下这个键可以加入第二位玩家——“吃豆人小姐”，用键盘上的W、S、A、D键操控。两天后的5月23日，吃豆子游戏的doodle被移除。但没过几天，为了满足用户们的要求，Google把这个doodle永久放置在了一个子域名上。[243][244]
+
+2011年6月9日，为了纪念电吉他之父莱斯·保罗诞辰96周年，Google在主页放置了一个可互动的电吉他式doodle。除了能用悬停的鼠标指针来弹奏该电吉他之外，用户也可以用键盘按键来进行弹奏。用户可以在弹奏一段30秒以内的旋律，并用URL的方式发送给他人。同样由于热门，这个电吉他式的doodle被额外增加了一天的展示时间，之后亦被放置在一个永久的域名下。[245][246]
+
+除了官方团队会制作Doodles以外，Google也鼓励人们参与到创造的行列中。Google每年举办Doodle4Google大赛，吸收参赛者的创意并嘉奖入选者。[247]
+
+慈善事业[编辑]
+
+2004年，Google创建了非营利的慈善机构Google.org，起始基金为10亿美元。[248]组织的使命是创建公众对气候变化、全球公共卫生、全球贫困等问题的意识。它的首批计划之一是开发一款可行的每加仑燃料行驶100英里的混合动力电动载具。2004年Google聘请了拉里·布莱恩特为该项目的执行经理，[249]目前的执行经理则为梅根·史密斯。[250]
+
+2008年，Google宣布“创想10100项目”，激励人们想出如何帮助人类并从中精选投票。[251]经过两年创意投稿的时间之后，[252] Google最终揭示了投票结果并把一千万美元的资金投入到从提高非洲的教育条件到建设免费互联网在线教学等等各式各样的创意的实践中。[253]
+
+自2008年起，Google在中国大陆发起举办“‘益暖中华’——谷歌杯中国大学生公益创意大赛”，征集公益创意，并对优胜项目予以奖励，以此来倡导大学生投身社会公益事业。截至2011年，大赛举办了四届。[254]
+
+2011年，Google公司为国际奥林匹克数学竞赛捐款一百万欧元，以支持该竞赛2011年至2015年的举办。[255]
+
+2012年，Google创立全球影响力大奖[256]，鼓励运用科技和创新解决方案来应付人类当前挑战的机构与组织。Google投入了2300万美元来奖励七个组织[256]，包括世界自然基金会。
+
+网络中立性[编辑]
+
+Google是著名的网络中立性的支持者。2006年2月7日，文顿·瑟夫，网际协议（IP）的发明人之一，同时也是Google的副总裁和“首席互联网专员”在国会中说道：“允许宽带运营商控制人们在互联网上看什么或做什么从根本上破坏现已给互联网带来如此之成功的网络中立性原则。”[257]
+
+但也有报道认为，Google也是网络中立性的违反者。[258]
+
+隐私[编辑]
+
+前任首席执行官埃里克·施密特在2007年接受金融时报采访时说：“我们的目标是让Google的用户可以得到诸如‘我明天该做什么？’和‘我应该参加什么工作’之类问题的答案”。[259] 2010年，在接受华尔街日报的采访时他再一次重申：“我想事实上大多数人并不渴望Google回答他们的问题，他们想让Google告诉他们接下去该做什么。”[260]
+
+2009年12月，施密特在一些人表示了对隐私权的担忧之后声明：“如果有些东西你不想让别人知道，或许首先你不应该做这件事。如果你真正需要某种隐私权，事实上是搜索引擎——包括Google在内——都会在一段时间内保留有这些信息，而且这很重要。举个例子，我们美国人都得遵守《爱国者法案》，因而我们所有人的信息都被掌控在当局的手里。”[261]国际隐私组织评价Google“敌对隐私权”，并在报告中将其排在最后一位。[262][263][264]
+
+在2010年的Techonomy大会上，施密特预测“实名而非匿名”是引领因特网前进的要素：“在一个充满不同步威胁的世界里，若没有方法可以辨认你是谁将会很危险。我们需要为人们提供一个实名验证的服务。政府也需要它。”“如果我看了足够多关于你的消息和所在位置，我们就能用人工智能预测你要去哪里。给我们你的14张照片，我们就能辨别出你。你想你没有14张照片在互联网上？实际上在你的Facebook照片里就有！”[265]
+
+拍摄Google街景的汽车
+
+一个名为“公众信息研究”（Public Information Research）的非营利组织开设了“Google Watch”网站，标语为“一份对Google垄断、算法和隐私问题的观察”。[266][267]这个网站针对有着存储Cookie向Google提出了一些问题。[268] Google也因推出社交网络服务Google Buzz而遭受诟病，在Google Buzz的默认设置中，Gmail用户的联系人列表会自动公开。[269]由于在一些国家和地区对某些网站实行审查制度，Google也受到了批评。一直到2010年3月退出中国为止，Google一直在坚持中国大陆的网络审查制度，被强制以俗称为“防火长城”的过滤器来执行网络审查。[270]
+
+尽管在国家和地区政治事务上很有影响力，但Google并不透露其用于政治的开支。2010年8月，纽约市公益维护官白思豪开展了一场全国运动，敦促公司透露所有的政治开支情况。[271]
+
+2006年至2010年间，拍摄Google街景的小车经过三十多个国家，从未加密的公共或私人Wi-Fi网络收集了约600GB的数据。但是Google并没有给予受影响的人Wi-Fi信号的主人以隐私权处理的解释。一位Google的代表声称他们在接到德国监管机构的质询之前，并没有意识到收集数据带来的问题，并解释说收集到的信息也不会用于搜索或其他服务。为了避免可能会导致的法律制裁，Google称其不会销毁数据，直到获得政府相关机构的许可。[272][273]
+
+2013年6月，Google被指参与棱镜计划，[274][275]随后Google对媒体宣告，[276]并在其官方博客上发表了由该公司时任首席执行官和时任首席法务官联合署名的文章。[277]同时，彭博社曝出Google等公司与美国国家安全部门紧密合作，向其提供敏感信息，同时获得机密情报的新闻。[278]
+
+2014年5月，中华人民共和国国务院新闻办互联网新闻研究中心发布了一份名为《美国全球监听行动纪录》的报告，声称美国的棱镜计划对华窃密，“微软Google均有配合”。[279]
+
+2018年9月，曝出Gmail 未经用户同意违规扫描邮件信息而涉嫌泄露用户个人信息，美国将在9月26日举行听证会。Google方面表示不予置评。
+
+互联网自由[编辑]
+关闭Google.cn搜索服务[编辑]
+主条目：谷歌退出中国事件和谷歌中国
+谷歌中国在北京中关村清华科技园内的总部
+
+2010年1月12日，Google公司发表声明称受到来自中国大陆的黑客攻击，并将与中华人民共和国政府谈判，要求取消谷歌中国搜索引擎的过度内容审查，否则谷歌中国会退出中国大陆市场。事件引起了关于网络自由、言论自由，以及事件背后真正原因的争论。两个多月后，从北京时间（UTC+8）3月23日凌晨起，Google公司决定将原有谷歌中国的两个域名（google.cn和g.cn）重定向至Google香港的域名（google.com.hk），并使用通过其在香港或海外的服务器实现未经审查过滤的搜索引擎服务[280]，但中国大陆用户搜索敏感词汇会因防火长城而导致链接被重置。北京时间2010年4月3日，Google香港网站Logo由“Google谷歌”更名为“Google中国”，有人认为这意味着使用四年的“谷歌”名称可能遭弃用。[281]但在第二天，2010年4月4日（UTC+8）Google香港网站Logo又由“Google中国”改回“Google谷歌”。[282]
+
+谷歌不屈服于中国当局网络控制的行动，引发全球关注和人权组织的广泛赞扬。被外界视为中国第一家人权网站的六四天网创办人黄琦表示很赞赏谷歌公司坚持普世价值的骨气，面对中国的新闻屏蔽和网络屏蔽，一直不妥协，这种做法理应受到全世界企业的效仿。[283]
+
+但是，此次Google结束的仅仅是中国大陆的搜索业务，而Google翻译、Google地图等Google在中国大陆的无关互联网搜索的业务照常营运。Google在中国大陆的官方博客“Google黑板报”也照常更新[284]。
+
+自从2010年Google中国将搜索业务迁移至香港以来，Google香港域名便时常遭到中华人民共和国政府的关键词过滤和全站屏蔽，致使中国大陆网民无法正常使用Google搜索。
+
+2011年，根据不完全统计，中国大陆顶级互联网网站前5名中，谷歌香港的域名“Google.com.hk”排在第五名。[285]
+
+2013年11月，谷歌公司执行主席埃里克·施密特呼吁中国开放互联网、尊重民众的言论自由。他说中国大陆的新闻检查问题明显恶化，他对中华人民共和国当局加紧打压网络言论、对转发所谓“网络谣言”500次入罪的司法解释感到担忧，并表示如果中国不改变目前的新闻检查制度，谷歌就不会重返中国。[283]
+
+2014年5月29日起，Google所有服务（包括Gmail服务）在中国大陆被防火长城大规模干扰至基本无法使用，重定向至Google香港的域名也遭到屏蔽，Google指中国大陆的网络仍然可局部使用其服务，如未迁移至香港的地图、翻译等[286][287][288][289][290][291]。直至2014年9月，Google.cn域名下的大部分服务恢复正常。
+
+2015年六四前夕，长城防火墙加强对Google的封锁，众多IP地址也被封锁，此后除了Google.cn域名的翻译、地图服务（除街景外）、网站导航服务及广告等业务可以部分使用之外，其他所有Google服务均无法在大陆使用[292]。这次屏蔽造成了大部分中国大陆网民长期抵制和反对，原因：1、Google搜索、Gmail非常受欢迎。2、百度搜索广告过多。
+
+反对管辖互联网[编辑]
+
+2012年12月3日举行的国际电信大会讨论中华人民共和国和俄罗斯等国支持的国际电信规则修订方案，修订方案建议将互联网包含在联合国下属机构国际电信联盟的管辖范围之内。Google为此发起了反击，呼吁网民支持自由和开放的互联网。
+
+Google创建了一个参与行动的网站，并声明“互联网将全球20多亿人联系在一起。一些国家/地区的政府想要在12月份召开秘密会议，以期就网络内容审查制度和网络管制达成共识。我们应该团结起来，维护互联网的自由与开放。”，“自由和开放的世界取决于自由和开放的网络。各国政府不应该单独决定互联网的前路。全球数以十亿计使用互联网的人，以至创建和维护互联网的专家，都应该出一分力。”[293]
+
+由于中国互联网络信息中心的合作方MCS Holdings签发多个Google域名的不当证书，2015年4月2日，Google宣布不再信任该中心发布的安全证书，网站若使用该中心颁发的证书，用户在Google Chrome中访问时将受到谷歌的安全警告[294][295]。
+
+争议[编辑]
+	此章节需要扩展。 (2016年7月26日)
+请协助改善章节，更进一步的信息可能会在讨论页或扩充请求中找到。请在扩展条目后将此模板移除。
+主条目：对Google的批评和愿荣光归香港
+2017年，有伊莉版主因上传霹雳布袋戏至Google云硬盘而被检方向台湾Google资料处理中心调阅资料，获美国Google同意。全案侦查起诉。[296]
+2018年4月11日脸谱泄密风波，相关信息单位如苹果、Google等受到检查，尤其大型搜索引擎Google也被批评管理不当而导致其用户资料泄漏。[297]
+2017年10月12日一个使用Google Home mini的语音助理产品其用户，被发现其设备在听到“特定词汇”会自动产生录音档并进行云上传，变相形成了窃听私人用户的用具引起争议，虽然Google事后单方面宣称已经更新，但是并公开未提出书面解释或是实际的产品检讨报告，所以最后问题不了了之[298]
+2017年8月7日一名底下公司工程师在网上发表了3000多字关于女性不适合当工程师的言论，相关争议的言论让女性主义的群体群体激愤，并引发Google对其底下人员管理不当的潜在隐忧。[299]
+不当监控消费者生活信息，根据美国彭博社2019年2月12日报导，Google要求合作的设备厂商将用户的行为资料持续发送给他们，2018年开始Google要求设备厂商修改代码，不再被动由消费者下指令才获取信息，而是要求厂商主动持续回报设备状态，例如消费者看了那些电视频道、家中电灯及门锁状态。报导引述罗技等业者，这些厂商以侵犯用户隐私为由试图拒绝两家大厂的要求，但遭Google回绝。[300]
+Google在华语圈有忽视地区差异、一概以简体中文为本位的问题，例如使用Google台湾网站搜索，台湾网站未必会优先出现，甚至有搜索结果中简体中文资料多于繁体中文的情况，并不符合台湾用户的需求。[查证请求]
+2021年随着塔利班再次获得阿富汗政权，谷歌暂时锁定了部分前阿富汗政府中使用谷歌服务的账号，公开资料显示前阿富汗政府有二十多个机构使用谷歌的服务器处理工作[301]。
+2022年因香港于国际赛事多次播错国歌，甚至有用户指在Google搜索“香港国歌”时最高的显示结果是《愿荣光归香港》的链接，而不是中国国歌《义勇军进行曲》。事件被指与互联网搜索器的算法有关，引起建制派和政府高层的注意，要求Google搜索器在搜索“香港国歌”时显示正确的结果。有网络专家提出可向Google公司缴交广告费便可将《义勇军进行曲》在搜索结果置顶，政府内部讨论时亦有意见认为搜索结果的显示次序可透过支付广告费解决，但政府领导层宣称Google有责任移除《愿荣光归香港》及将《义勇军进行曲》置顶，表明不会向Google公司支付广告费。
+故障[编辑]
+ 此章节的时间以东八区时间（UTC+8）为准。
+
+2013年8月17日06:50至06:55，谷歌遭遇了故障，包含Google搜索、YouTube、Google Drive和Gmail等服务都受到了影响。此事导致全球网络流量暴跌40%[302]。
+
+2014年1月25日，Google和旗下其他许多服务疑因软件出包故障，据信影响全球数亿民众[303]。
+
+2019年3月13日上午10时左右，发生全球大死机问题，Gmail出现无法发送邮件、无法下载附件文件等情形，Google云硬盘也传出有延迟或是文件无法下载的状况。同日14时13分，Google于官网公告已经解决Gmail和Google云硬盘的问题，表示对于造成用户不便感到抱歉，但是并未提及造成死机的原因。[304]
+
+2020年12月14日19:50左右，Google账号无法登录，持续大约一个小时，主要集中在美国东海岸。之后Google官方解释为内部存储配额问题，导致账户认证系统离线。有报道提到，2020年3月、8月、9月期间Google旗下服务也出现过故障。[305][306][307]
+
+参见[编辑]
+Alphabet Inc.
+谷歌中国
+Google 搜索
+Google 文件系统
+MapReduce
+谷歌退出中国事件
+Google 产品列表
+Google 公司收购列表
+Googleplex
+实习大叔
+网络主权
+注解[编辑]
+^ Google最初于1998年9月4日成立，但是自2002年以来，该公司在9月的各个日子（通常是9月27日）庆祝其周年纪念日。[2][3][4][5]
+^ Google Inc. 在台湾登记为美商福格尔国际有限公司[7]，中国大陆亦有北京谷翔信息技术有限公司以及上海的咕果信息技术（上海）有限公司等登记名称。但产品中官方均直接使用英文的“Google”名称。
+参考文献[编辑]
+柯利弗德·皮寇弗; 陈以礼（翻译）. The Math Book:From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics [数学之书]. 时报文化. 2013-04-16. ISBN 978-957-135-699-0 （中文（繁体））.
+参考来源[编辑]
+^ 
+跳转至：
+1.0 1.1 1.2 1.3 1.4 1.5 February 3, 2021 - 10-K: Annual report for year ending December 31, 2020. UNITED STATES SECURITIES AND EXCHANGE COMMISSION. [2021-08-21]. （原始内容存档于2021-10-13）.
+^ Fitzpatrick, Alex. Google Used to Be the Company That Did 'Nothing But Search'. 时代杂志. 1994-09-04 [2019-09-28]. （原始内容存档于2019-10-16）.
+^ Telegraph Reporters. When is Google's birthday – and why are people confused?. The Telegraph. 2019-09-27 [2019-09-28]. （原始内容存档于2021-01-12）.
+^ Griffin, Andrew. Google birthday: The one big problem with the company’s celebratory doodle. The Independent. 2019-09-27 [2019-09-28]. （原始内容存档于2021-01-12）.
+^ Wray, Richard. Happy birthday Google. The Guardian. 2008-09-05 [2019-09-28]. （原始内容存档于2021-01-12）.
+^ Google中国. [2019-04-29]. （原始内容存档于2006-12-16）.
+^ 谷歌與科高. 2006-04-12 [2019-04-29]. （原始内容存档于2016-05-03）.
+^ 参见：Google产品列表.
+^ Financial Tables. Google, Inc. [2010-07-05]. （原始内容存档于2010-02-08）.
+^ Vise, David A. Online Ads Give Google Huge Gain in Profit. The Washington Post. 2005-10-21.
+^ Ignatius, Adi. Meet the Google Guys. Time Magazine (San Francisco, CA: Time Inc.). 2006-02-12 [2013-11-06]. （原始内容存档于2013-08-23）.
+^ The Google Guys. CBS News.com (CBS Interactive). 2009-03-12.[失效链接]
+^ Barrett, Brian. Google Wants to Add Store Interiors to Maps. Gizmodo. 2010-02-04 [2019-04-29]. （原始内容存档于2018-09-04）.
+^ Lashinsky, Adam. Google wins again. Fortune.com (Time Warner). 2008-01-29 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Google Corporate Information. Google, Inc. [2019-04-29]. （原始内容存档于2011-04-26）.
+^ Don't Be Evil or don't lose value?. The Sydney Morning Herald. 2008-04-15 [2019-04-29]. （原始内容存档于2015-09-24）.
+^ Google Code of Conduct. Google, Inc. 2009-04-08 [2019-04-29]. （原始内容存档于2016-01-15）.
+^ Lenssen, Philip. Paul Buchheit on Gmail, AdSense and More. Google Blogscoped. 2007-07-16 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ 佩奇今日正式出任谷歌CEO外界评价不一. 凤凰网. [2019-04-29]. （原始内容存档于2012-01-13）.
+^ 谷歌宣佈重組 創立母公司Alphabet. 华尔街日报. 2015-08-11 [2015-08-11]. （原始内容存档于2015-08-13）.
+^ chromebook
+^ Williamson, Alan. An evening with Google's Marissa Mayer. Alan Williamson. 2005-01-12 [2011-07-17]. （原始内容存档于2011-09-21）.
+^ 
+跳转至：
+23.0 23.1 23.2 23.3 23.4 Google Milestones. Corporate Information. Google, Inc. [2019-04-29]. （原始内容存档于2010-08-20）.
+^ Page, Lawrence; Brin, Sergey; Motwani, Rajeev; Winograd, Terry. The PageRank Citation Ranking: Bringing Order to the Web. Stanford University. 1999-11-11 [2011-07-17]. （原始内容存档于2009-11-18）.
+^ Technology Overview. Corporate Information. Google, Inc. [2019-04-29]. （原始内容存档于2010-02-10）.
+^ Page, Larry. PageRank: Bringing Order to the Web. Stanford Digital Library Project. 1997-08-18 [2014-04-16]. （原始内容存档于2002-05-06）.
+^ Battelle, John. The Birth of Google. Wired Magazine. August 2005 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ 9 People, Places & Things That Changed Their Names. Mental Floss. [2011-07-17]. （原始内容存档于2010-03-16）.
+^ Backrub search engine at Stanford University. [2011-07-17]. （原始内容存档于1996-12-24）.
+^ Koller, David. Origin of the name "Google". Stanford University. January 2004 [2019-04-29]. （原始内容存档于2012-07-04）.
+^ Hanley, Rachael. From Googol to Google. The Stanford Daily (Stanford University). 2003-02-12 [2011-07-17]. （原始内容存档于2011-05-11）.2010-03-27 archive
+^ 柯利弗德 2013
+^ Google! Beta website. Google, Inc. [2020-12-08]. （原始内容存档于1999-02-21）.
+^ Google! Search Engine. Stanford University. [2011-07-17]. （原始内容存档于1998-11-11）.
+^ WHOIS – google.com. [2011-07-17]. （原始内容存档于2012-05-20）.
+^ Craig Silverstein's website. Stanford University. [2011-07-17]. （原始内容存档于1999-10-02）.
+^ Kopytoff, Verne. Craig Silverstein grew a decade with Google. San Francisco Chronicle (Hearst Communications, Inc.). 2008-09-07 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Brin, Sergey; Page, Lawrence. The anatomy of a large-scale hypertextual Web search engine (PDF). Computer Networks and ISDN Systems. 1998, 30 (1–7): 107–117 [2019-12-17]. doi:10.1016/S0169-7552(98)00110-X. （原始内容存档 (PDF)于2015-09-27）.
+^ Barroso, L.A.; Dean, J.; Holzle, U. Web search for a planet: the google cluster architecture. IEEE Micro. 2003-04-29, 23 (2): 22–28 [2019-12-17]. doi:10.1109/mm.2003.1196112. （原始内容存档于2020-01-24）. We believe that the best price/performance tradeoff for our applications comes from fashioning a reliable computing infrastructure from clusters of unreliable commodity PCs.
+^ Google Server Assembly. Computer History Museum. [2019-04-29]. （原始内容存档于2010-07-22）.
+^ 
+跳转至：
+41.0 41.1 Kopytoff, Verne. For early Googlers, key word is $$$. San Francisco Chronicle (San Francisco: Hearst Communications). 2004-04-29 [2017-06-08]. （原始内容存档于2009-09-19）.
+^ Google Receives $25 Million in Equity Funding (新闻稿). Palo Alto, Calif.: Google. 1999-06-07 [2011-07-17]. （原始内容存档于2000-03-09）.
+^ Elgin, Ben. Google: Whiz Kids or Naughty Boys?. BusinessWeek (Bloomberg, L.P.). 2004-08-19 [2019-04-29]. （原始内容存档于2009-06-12）.
+^ 2004 Annual Report (PDF). Mountain View, California: Google, Inc.: 29. 2004 [2019-04-29]. （原始内容存档 (PDF)于2016-01-28）.
+^ La Monica, Paul R. Google sets $2.7 billion IPO. CNN Money. 2004-04-30 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Kawamoto, Dawn. Want In on Google's IPO?. ZDNet. CBS Interactive. 2004-04-29 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Webb, Cynthia L. Google's IPO: Grate Expectations. Washington Post (Washington, D.C.: The Washington Post Company). [2010-02-19]. （原始内容存档于2007-08-08）.
+^ Kuchinskas, Susan. Yahoo and Google Settle. internet.com (QuinStreet, Inc.). 2004-08-09 [2019-04-29]. （原始内容存档于2016-12-27）.
+^ Quirky Google Culture Endangered?. Wired Magazine. Associated Press. 2004-04-28 [2011-07-17]. （原始内容存档于2010-08-14）.
+^ Olsen, Stefanie; Kawamoto, Dawn. Google IPO at $2.7 billion. CNET News. CBS Interactive. 2004-04-30 [2019-04-29]. （原始内容存档于2011-05-10）.
+^ Rivlin, Gary. Relax, Bill Gates; It's Google's Turn as the Villain. New York Times. 2005-08-24 [2019-04-29]. （原始内容存档于2015-03-30）.
+^ Gibson, Owen; Wray, Richard. Search giant may outgrow its fans. The Sydney Morning Herald. 2005-08-25 [2019-04-29]. （原始内容存档于2010-05-17）.
+^ Ranka, Mohit. Google – Don't Be Evil. OSNews. 2007-05-17 [2019-04-29]. （原始内容存档于2010-07-06）.
+^ Mills, Elinor. Google's culture czar. ZDNet. 2007-04-30 [2011-07-17]. （原始内容存档于2010-10-31）.
+^ Kawamoto, Dawn. Google hit with job discrimination lawsuit. CNET News. 2005-07-27 [2011-07-17]. （原始内容存档于2019-10-17）.
+^ Google accused of ageism in reinstated lawsuit. CTV News (CTV Television Network). Associated Press. 2007-10-06 [2019-04-29]. （原始内容存档于2007-10-11）.
+^ 
+跳转至：
+57.0 57.1 La Monica, Paul R. Bowling for Google. CNN. 2005-05-25 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Hancock, Jay. Google shares hit $700. The Baltimore Sun. 2007-10-31 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Fried, Ian. A building blessed with tech success. CNET News (CNET). 2002-10-04 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Stross, Randall. Introduction. Planet Google: One Company's Audacious Plan to Organize Everything We Know. New York: Free Press. September 2008: 3–4. ISBN 978-1-4165-4691-7.
+^ Sullivan, Danny. GoTo Going Strong. SearchEngineWatch.com (Incisive Interactive Marketing). 1998-07-01 [2011-07-17]. （原始内容存档于2009-08-28）.
+^ Pelline, Jeff. Pay-for-placement gets another shot. CNET News (CNET). 1998-02-19 [2011-07-17]. （原始内容存档于2012-12-08）.
+^ Olsen, Stephanie. Google, Yahoo bury the legal hatchet. CNET News (CNET). 2004-08-09 [2019-04-29]. （原始内容存档于2013-06-15）.
+^ Google Press Center: Fun Facts. www.google.com. [2009-10-05]. （原始内容存档于2001-07-15）.
+^ Olsen, Stephanie. Google's movin' on up. CNET News (CNET). 2003-07-11 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Google to buy headquarters building from Silicon Graphics. Silicon Valley / San Jose Business Journal (San Jose: American City Business Journals). 2006-06-16 [2019-04-29]. （原始内容存档于2010-04-18）.
+^ Krantz, Michael. Do You "Google"?. Google, Inc. 2006-10-25 [2019-04-29]. （原始内容存档于2012-05-30）.
+^ Bylund, Anders. To Google or Not to Google. MSNBC. 2006-07-05 [2010-02-17]. （原始内容存档于2006-07-07）.
+^ Google’s new record, 1 billion visitors in May. [2011-07-22]. （原始内容存档于2013-01-16）.
+^ Google月独立访问用户量突破10亿大关. [2019-04-29]. （原始内容存档于2013-10-29）.
+^ Mara, Janis. Google Acquires Picasa. Clickz. 2007-07-13 [2011-07-17]. （原始内容存档于2008-02-20）.
+^ Google Acquires Keyhole Corp (新闻稿). Google, Inc. 2004-10-27 [2019-04-29]. （原始内容存档于2011-04-30）.
+^ La Monica, Paul R. Google to buy YouTube for $1.65 billion. CNN Money. 2006-10-09 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Story, Louise; Helft, Miguel. Google Buys DoubleClick for $3.1 Billion. The New York Times (New York: The New York Times Company). 2007-04-17 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Chan, Wesley. All aboard. Official Google Blog. Google, Inc. 2007-07-02 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Google to Acquire On2 Technologies. Google Press release. 2009-08-05 [2019-04-29]. （原始内容存档于2012-05-22）.
+^ Google Acquires Aardvark. Official Google Blog. Google. [2010-02-12]. （原始内容存档于2012-02-02）. we're excited to announce that we've acquired Aardvark, a unique technology company.
+^ Google and ITA Software Sign Acquisition Agreement. Google Investor Relations. 2010-07-01 [2019-04-29]. （原始内容存档于2015-11-26）.
+^ Google to Acquire Slide. 2010-08-05 [2019-04-29]. （原始内容存档于2010-10-31）.
+^ Google to Acquire Like.com. 2010-08-15 [2010-08-15]. （原始内容存档于2010-08-16）.
+^ Geek chic: Google launches Boutiques.com. 2010-11-18 [2019-04-29]. （原始内容存档于2012-07-28）.
+^ SageTV HTPC software acquired by Google, next stop Google TV?. Engadget. [2019-04-29]. （原始内容存档于2017-11-22）.
+^ Supercharging Android: Google to acquire Motorola. Google Blog. [2011-08-15]. （原始内容存档于2012-07-28）.
+^ Mills, Elinor. Can Google beat the new-office curse?. CNET News. CBS Interactive. 2005-09-29 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Kessler, Michelle; Acohido, Byron. Google, Sun make 'big deal' together. USA Today (Gannett Co. Inc.). 2005-10-03 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ Mills, Elinor. What the Google-AOL deal means for users. CNET News. CBS Interactive. 2005-12-28 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Lunden, Ingrid. DotMobi Sells .Mobi Domain-Name Operator. Yahoo!. 2010-02-12 [2011-07-17]. （原始内容存档于2011-06-23）.
+^ Fox Interactive Media Enters into Landmark Agreement with Google Inc.; Multi-Year Pact Calls for Google to Provide Search and Advertising across Fox Interactive Media's Growing Online Network Including the MySpace Community. B Net (CBS Interactive). 2006-08-07 [2019-04-29]. （原始内容存档于2016-01-09）.
+^ Open Handset Alliance members page. Open Handset Alliance. 2007-11-05 [2007-11-05]. （原始内容存档于2012-03-02）.
+^ 
+跳转至：
+90.0 90.1 90.2 90.3 全球科技龙头：Alphabet(原谷歌公司Google)(GOOGL). 美股之家. 2021-07-10 [2021-07-11]. （原始内容存档于2021-07-14）.
+^ Google Annual Report, Feb. 15, 2008
+^ Form 10-K – Annual Report. EDGAR. SEC. [2019-04-29]. （原始内容存档于2010-11-06）.
+^ Nakashima, Ellen. Some Web Firms Say They Track Behavior Without Explicit Consent. The Washington Post (The Washington Post Company). 2008-08-12 [2008-09-01]. （原始内容存档于2012-11-12）.
+^ Helft, Miguel. Google to Offer Ads Based on Interests. The New York Times. 2009-03-11 [2009-03-10]. （原始内容存档于2017-03-28）.
+^ Bright, Peter. Surfing on the sly with IE8's new "InPrivate" Internet. Ars Technica. 2008-08-27 [2019-04-29]. （原始内容存档于2009-01-31）.
+^ Mills, Elinor. "Google to offer advertisers click fraud stats （页面存档备份，存于互联网档案馆）." c net （页面存档备份，存于互联网档案馆）. July 25, 2006. Retrieved July 29, 2006.
+^ Google Somewhat Lifts Oceana Ad Ban. webpronews.com. [2011-07-17]. （原始内容存档于2009-01-30）.
+^ Mclntyre, Douglas. Yahoo and Google may dump their deal. Bloggingstocks.com. 2008-10-31 [2019-04-29]. （原始内容存档于2010-02-13）.
+^ Drummond, David. Ending our agreement with Yahoo!. The Official Google Blog. Googleblog.blogspot.com. 2008-11-05 [2019-04-29]. （原始内容存档于2010-12-02）.
+^ Google Demo Slam. Google, Inc. [2011-07-17]. （原始内容存档于2010-11-16）.
+^ Google Launches Demo Slam!. searchenginejournal. [2019-04-29]. （原始内容存档于2016-01-22）.
+^ Wiley, Jon. The Google Design, turned up a notch. Official Google Blog. Google, Inc. 2010-05-06 [2019-04-29]. （原始内容存档于2019-04-08）.
+^ comScore Releases November 2009 U.S. Search Engine Rankings. 2006-12-16 [2019-04-29]. （原始内容存档于2010-02-25）.
+^ Michael Arrington. Google's Misleading Blog Post: The Size Of The Web And The Size Of Their Index Are Very Different. Techcrunch.com. 2008-07-25 [2019-04-29]. （原始内容存档于2019-02-14）.
+^ 
+跳转至：
+105.0 105.1 Search Features. Google.com. May 2009 [2019-04-29]. （原始内容存档于2015-02-03）.
+^ Google Help : Cheat Sheet. Google. 2010 [2019-04-29]. （原始内容存档于2010-02-11）.
+^ Voice Search for Google.com - Just click the mic and say your search. And, Search Google by giving Image -QualityPoint Technologies. [2019-04-29]. （原始内容存档于2011-06-25）.
+^ Olsen, Stefanie. Google cache raises copyright concerns. CNET News. CBS Interactive. 2003-07-09 [2019-04-29]. （原始内容存档于2011-05-10）.
+^ Field v. Google, CV-S-04-0413-RCJ-LRL (Nevada District Court 2006-01-19).[失效链接]
+^ Parker v. Google, 04-CV-3918 (Eastern Pennsylvania District Court 2006-03-10).
+^ 
+跳转至：
+111.0 111.1 Cashmore, Pete. Six ways Gmail revolutionized e-mail. London, England: CNN News. 2010-04-01 [2019-04-29]. （原始内容存档于2018-10-05）.
+^ Chitu, Ionut Alex. More People Can Sign up for a Gmail Account. Google Operating System Blog. 2007-02-07 [2019-04-29]. （原始内容存档于2019-04-08）.
+^ 
+跳转至：
+113.0 113.1 Glotzbach, Matthew. Google Apps is out of beta (yes, really). Official Google Blog. Google, Inc. 2009-07-07 [2019-04-29]. （原始内容存档于2011-01-21）.
+^ Zibreg, Christian. Facebook strikes back at Google, integrates its chat with AOL Instant Messenger. Geek.com. Geek.com, LLC. para. 5. 2010-02-11 [2019-04-29]. （原始内容存档于2013-01-16）. While Gmail’s 146 million monthly users are no match for Facebook’s 400+ million-strong user base, not all of them use built-in chat.
+^ Lee, Elvin. Twice the storage for a quarter of the price. Official Google Blog. Google, Inc. 2009-11-10 [2019-04-29]. （原始内容存档于2019-03-27）.
+^ Marshall, Gary. Happy sixth birthday, Google Mail!. TechRadar. Future Publishing Ltd. 2010-04-01 [2019-04-29]. （原始内容存档于2019-03-27）.
+^ Mazzon, Jen. Writely so. Official Google Blog. Google, Inc. 2006-03-09 [2019-04-29]. （原始内容存档于2019-04-07）.
+^ Google Announces limited test on Google Labs: Google Spreadsheets (新闻稿). Google, Inc. 2006-06-06 [2019-04-29]. （原始内容存档于2012-06-27）.
+^ Arrington, Michael. Google "Docs & Spreadsheets" Launches. TechCrunch. 2006-10-10 [2019-04-29]. （原始内容存档于2018-09-28）.
+^ Hoffman, Harrison. Google Presentations gets the green light. CNET News. CBS Interactive, Inc. 2007-09-17 [2019-04-29]. （原始内容存档于2014-01-29）.
+^ Sterling, Greg. Google Rebrands Custom Search "Business Edition" As "Google Site Search". Search Engine Land. Third Door Media. 2008-06-03 [2019-04-29]. （原始内容存档于2010-08-13）.
+^ Girouard, Dave. We've Officially Acquired Postini. The Official Google Blog. Google, Inc. 2007-09-13 [2019-04-29]. （原始内容存档于2019-02-20）.
+^ Google Adds Postini's Security and Compliance Capabilities to Google Apps (新闻稿). Google, Inc. 2007-10-03 [2019-04-29]. （原始内容存档于2012-05-22）.
+^ Postini. Google, Inc. [2019-04-29]. （原始内容存档于2019-04-08）.
+^ Google Wave失败原因与教训. cnBeta.com. 2010-08-06 [2019-04-29]. （原始内容存档于2011-09-02）.
+^ A Map Of Social (Network) Dominance. Vincenzo Cosenza. 2009-06-07 [2019-04-29]. （原始内容存档于2018-02-05）.
+^ Parr, Ben. "Google Launches Google+ To Battle Facebook [PICS"] （页面存档备份，存于互联网档案馆）, Mashable.com, June 28, 2011, accessed June 28, 2011
+^ 五大特色谷歌正式推出Google+社交服务. 网易手机频道. 2011-06-30 [2019-04-29]. （原始内容存档于2011-07-05）.
+^ 谷歌宣布Google+用户数已超1000万. 网易科技. 2011-07-15 [2019-04-29]. （原始内容存档于2011-07-18）.
+^ Google+ grows to 10 million users. 2011-07-14 [2019-04-29]. （原始内容存档于2019-01-09）.
+^ Graph: How long it took Facebook, Twitter and Google+ to reach 10 million users. TechCrunch. 2011-07-22 [2019-04-29]. （原始内容存档于2016-07-29）.
+^ Google+ hits 20 million mark in three weeks （页面存档备份，存于互联网档案馆） cnet 21 July 2011
+^ MacMillan, Douglas; McMillan, Robert. Google Exposed User Data, Feared Repercussions of Disclosing to Public. The Wall Street Journal. 2018-10-08 [2018-10-08]. ISSN 0099-9660. （原始内容存档于2018-10-08） （美国英语）.
+^ Blogger Buzz: Important Note to FTP Users. [2019-04-29]. （原始内容存档于2013-03-09）.
+^ "Top 50 Domains - www.TheLifeMovie.blogspot.com Ranked by Unique Visitors"” （页面存档备份，存于互联网档案馆） September, 2007.
+^ 全球最大博客网站迎来10岁生日 （页面存档备份，存于互联网档案馆），2012-07-15 archive （页面存档备份，存于互联网档案馆）、2011-09-01 archive
+^ Ben Parr. EXCLUSIVE: Google To Retire Blogger & Picasa Brands in Google+ Push. Mashable. 2011-07-05 [2019-04-29]. （原始内容存档于2019-02-25）.
+^ Hopkins, Jim. Surprise! There's a third YouTube co-founder. USA Today. 2006-10-11 [2008-11-29]. （原始内容存档于2008-11-18）.
+^ Weber, Tim. BBC strikes Google-YouTube deal. BBC. 2007-03-02 [2019-04-29]. （原始内容存档于2012-03-09）.
+^ YouTube是全球最大的视频分享社区 （页面存档备份，存于互联网档案馆），2012-07-20 archive （页面存档备份，存于互联网档案馆）、2011-08-13 archive
+^ Ryan Paul. Google unveils Chrome source code and Linux port. Ars Technica. 2008-09-02 [2019-04-29]. （原始内容存档于2011-09-12）.
+^ "Google Chrome is built with open source code from Chromium." Retrieved from Chromium.org （页面存档备份，存于互联网档案馆），2008-09-13 archive （页面存档备份，存于互联网档案馆）、2008-09-06 archive
+^ "During a press briefing today, Google expressed hope that other browsers...", Retrieved from: Google unveils Chrome source code and Linux port （页面存档备份，存于互联网档案馆）, Ars Technica
+^ Home (Chromium Developer Documentation). Chromium Developer Documentation. dev.chromium.org. 2009 [2019-04-29]. （原始内容存档于2019-04-14）.
+^ "Google has made the Chrome source available under a permissive BSD license so that...", Retrieved from: Google unveils Chrome source code and Linux port （页面存档备份，存于互联网档案馆）, Ars Technica
+^ Chromium Terms and Conditions. Google Code. 2008-09-02 [2019-04-29]. （原始内容存档于2008-09-04）.，、2008-09-04 archive
+^ Chromium Project. ChromiumBrowserVsGoogleChrome. March 2011 [2019-04-29]. （原始内容存档于2016-01-25）.
+^ McAllister, Neil. Building Google Chrome: A first look. Fatal Exception (InfoWorld). 2008-09-11 [2011-07-28]. （原始内容存档于2008-09-13）. As the name suggests, Chromium is a rawer, less polished version of Chrome. The UI is mostly identical, with only a few very minor visual differences...The most readily evident difference is the logo, which sheds the Google colors in favor of a subdued blue design
+^ Pichai, Sundar. A fresh take on the browser. Official Google Blog. Google, Inc. 2008-09-01 [2019-04-29]. （原始内容存档于2013-08-17）.
+^ Top 5 Browsers from Jun 10 to Jun 11. StatCounter. [2019-04-29]. （原始内容存档于2012-05-26）.
+^ 参见：网页浏览器的使用分布
+^ （简体中文）Chrome超越Firefox成为英国第二流行的浏览器. 2011-08-02 [2011-12-14]. （原始内容存档于2012-08-01）.
+^ （英文）Top 5 Browsers Archive.is的存档，存档日期2012-05-26, From Week 20 2011 to Week 20 2012.
+^ Smith, David. The future for Orange could soon be Google in your pocket. The Guardian (London: Guardian News and Media Ltd.). 2006-12-17 [2019-04-29]. （原始内容存档于2013-05-24）.
+^ Orlowski, Andrew. Google Phone – it's for real. The Register. The Register. 2007-03-16 [2019-04-29]. （原始内容存档于2019-04-02）.
+^ Ricker, Thomas. The Google Switch: an iPhone killer. Engadget. Weblogs, Inc. 2007-01-18 [2019-04-29]. （原始内容存档于2019-04-02）.
+^ Licenses. Android Open Source Project. Google, Inc. [2019-04-29]. （原始内容存档于2013-01-21）.
+^ Members of Open Handset Alliance. Open Handset Alliance. [2019-04-29]. （原始内容存档于2012-03-02）.
+^ Lee, Nicole. T-Mobile G1 details, price, and launch date revealed. CNET News. CBS Interactive, Inc. 2008-09-23 [2019-04-29]. （原始内容存档于2014-01-29）.
+^ Siegler, MG. The Droid You're Looking For: Live from the Nexus One Event. TechCrunch. 2010-01-05 [2019-04-29]. （原始内容存档于2019-02-14）.
+^ Tarmo Virki and Sinead Carew. Google topples Symbian from smartphones top spot. Reuters. 2011-01-31 [2019-04-29]. （原始内容存档于2015-05-04）.
+^ Google's Android becomes the world's leading smart phone platform (Canalys research release: r2011013). Canalys. 2011-01-31 [2019-04-29]. （原始内容存档于2011-07-19）.
+^ Barra, Hugo. Android: momentum, mobile and more at Google I/O. The Official Google Blog. 2011-05-10 [2019-04-29]. （原始内容存档于2012-01-30）.
+^ Android Stats. 2011-03-03 [2011-07-26]. （原始内容存档于2011-01-02）.
+^ Shankland, Stephen. Google's Android parts ways with Java industry group. CNET News. 2007-11-12 [2019-04-29]. （原始内容存档于2008-05-13）.
+^ 
+跳转至：
+166.0 166.1 Sengupta, Caesar. Releasing the Chromium OS open source project. Official Google Blog. Google, Inc. 2009-11-19 [2019-04-29]. （原始内容存档于2012-05-01）.
+^ Mediati, Nick. Google Announces Chrome OS. PC World. 2009-07-07 [2019-04-29]. （原始内容存档于2012-08-17）.
+^ Pichai, Sundar. Introducing the Google Chrome OS. Official Google Blog. Google, Inc. 2009-07-07 [2019-04-29]. （原始内容存档于2012-04-03）.
+^ Alex, Pham; Hirsch, Jerry. Google sees window of opportunity to launch operating system. Los Angeles Times. 2009-07-09 [2019-04-29]. （原始内容存档于2018-12-01）.
+^ Sengupta, Caesar. Releasing the Chromium OS open source project. Official Google Blog. Google, Inc. 2009-11-19 [2019-04-29]. （原始内容存档于2012-05-01）.
+^ Stokes, Jon. Google talks Chrome OS, HTML5, and the future of software. Ars Technica. 2010-01-19 [2019-04-29]. （原始内容存档于2011-01-21）.
+^ Womack, Brian. Google to Challenge Microsoft With Operating System. Bloomberg. 2009-07-08 [2011-07-28]. （原始内容存档于2009-01-23）.
+^ Hansell, Saul. Would you miss Windows with a Google operating system?. New York Times. 2009-07-08 [2009-07-08]. （原始内容存档于2015-09-10）.
+^ Pichai, Sundar. Introducing the Google Chrome OS. Official Google Blog. Google, Inc. 2009-07-07 [2019-04-29]. （原始内容存档于2012-04-03）.
+^ Upson, Linus; Pichai, Sundar. A New Kind Of Computer: Chromebook. The Official Google Blog. 2011-05-11 [2019-04-29]. （原始内容存档于2018-09-13）.
+^ Google unveils UK payments system （页面存档备份，存于互联网档案馆） BBC News
+^ Agrawal, Rocky. Google Offers Versus Groupon: The Portland Throwdown. TechCrunch. 2011-07-04 [2019-04-29]. （原始内容存档于2018-02-05）.
+^ Google Offers Help. [2019-04-29]. （原始内容存档于2011-12-07）.
+^ Robin Wauters. Google Offers Beta Expanded From Portland To New York And The SF Bay Area. TechCrunch. AOL. 2011-07-12 [2019-04-29]. （原始内容存档于2018-02-05）.
+^ TARA SIEGEL BERNARD, The New York Times. "Google Unveils App for Paying With Phone （页面存档备份，存于互联网档案馆）." May 26, 2011. Retrieved May 30, 2011.
+^ Google Translate Supports 5 Indic Languages. 2011-06-22 [2019-04-29]. （原始内容存档于2019-04-08）.
+^ Helft, Miguel. Google’s Computing Power Refines Translation Tool. The New York Times. 2010-03-08. para. 15 [2019-04-29]. （原始内容存档于2019-02-18）.
+^ Macht, Joshua. Automatic for the People. Time Magazine (AOL Time Warner). 2002-09-30 [2019-04-29]. （原始内容存档于2010-10-22）.
+^ Hesseldahl, Arik. Google Gets Into the Cable TV Business, for Real. AllThingsD.com. 2012-07-26 [2012-09-15]. （原始内容存档于2012-09-18）.
+^ 100 Best Companies to Work For. fortune. [2019-04-29]. （原始内容存档于2012-10-31）.
+^ Levering, Robert; Moskowitz, Milton. Serwer, Andrew , 编. In good company. Fortune Magazine (Cable News Network). 2007-01-22, 155 (1) [2019-04-29]. （原始内容存档于2010-03-01）.
+^ Levering, Robert; Moskowitz, Milton. Serwer, Andrew , 编. The 2008 list. Fortune Magazine (Cable News Network). 2008-02-04, 157 (2) [2019-04-29]. （原始内容存档于2010-07-23）.
+^ Levering, Robert; Moskowitz, Milton. Serwer, Andrew , 编. The 2009 list. Fortune Magazine (Cable News Network). 2009-02-02, 159 (2) [2019-04-29]. （原始内容存档于2010-07-26）.
+^ Levering, Robert; Moskowitz, Milton. Serwer, Andrew , 编. The 2010 list. Fortune Magazine (Cable News Network). 2010-02-08, 161 (2) [2019-04-29]. （原始内容存档于2010-06-18）.
+^ The World’s Most Attractive Employers 2010. Universum Global. 2010-09-28 [2011-07-17]. （原始内容存档于2010-11-12）.
+^ （英文）[1]
+^ Our Philosophy. Corporate Information. Google, Inc. [2019-04-29]. （原始内容存档于2010-07-09）.
+^ Noogler chez Google. [2019-04-29]. （原始内容存档于2011-05-11） （法语）.
+^ Shinal, John. Google IPO achieved its major goal: It's all about raising cash for the company and rewarding employees, early investors. San Francisco Chronicle (Hearst Communications, Inc.). 2004-08-22: J-1 [2019-04-29]. （原始内容存档于2012-05-16）.
+^ La Monica, Paul R. Google leaders stick with $1 salary. Cable News Network. 2006-03-31 [2019-04-29]. （原始内容存档于2017-06-11）.
+^ Another Googler goes to Facebook: Sheryl Sandburg becomes new COO. Venture Beat. 2008-03-04 [2011-07-17]. （原始内容存档于2008-03-09）.
+^ Moritz, Scott. Top Google exec jumps to Facebook. Fortune. 2008-03-04 [2011-07-17]. （原始内容存档于2008-04-13）.
+^ Liedtke, Michael. Facebook Raids Google for Executive. Washington Post. 2008-03-05 [2019-04-29]. （原始内容存档于2012-11-12）.
+^ Netshops Inc. Appoints Ash ElDifrawi as Company's First Chief Marketing Officer. PR Newswire. 2008-03-26 [2019-04-29]. （原始内容存档于2016-11-29）.
+^ Google Announces Fourth Quarter and Fiscal Year 2010 Results and Management Changes. Investor.google.com. [2019-04-29]. （原始内容存档于2016-01-11）.
+^ Mediratta, Bharat. he Google Way: Give Engineers Room. The New York Times (The New York Times Company). 2007-10-21 [2019-04-29]. （原始内容存档于2017-04-02）.
+^ Mayer, Marissa (speaker). Marissa Mayer at Stanford University (Seminar). Martin Lafrance. 事件发生在 11:33. 2006-06-30 [2019-04-29]. （原始内容存档于2019-02-22）. Fifty percent of what Google launched in the second half of 2005 actually got built out of 20% time. （页面存档备份，存于互联网档案馆）
+^ Google ranks number one on list of ideal employers. New York Post. 2011-03-22 [2019-04-29]. （原始内容存档于2012-12-15）.
+^ "About the Googleplex." Google. Retrieved March 5, 2008.
+^ What Google's Famous Cafeterias Can Teach Us About Health. July 2011 [2019-04-29]. （原始内容存档于2011-08-06）.
+^ Reardon, Marguerite. "Google takes a bigger bite of Big Apple （页面存档备份，存于互联网档案馆）." c net （页面存档备份，存于互联网档案馆）. October 2, 2006. Retrieved October 9, 2006.
+^ Google Completes Pittsburgh Office, Holds Open House. WTAE ThePittsburghChannel. 2006-11-17 [2019-04-29]. （原始内容存档于2009-06-04）.
+^ Olson, Thomas. Google search: Tech-minded workers. Trib Total Media. 2010-12-08 [2011-07-17]. （原始内容存档于2011-09-21）.
+^ Inside Google's Michigan Office. InformationWeek. 2007-10-24 [2011-07-17]. （原始内容存档于2008-05-03）.
+^ 
+跳转至：
+210.0 210.1 Richmond, Riva. "Google plans to build huge solar energy system for headquarters Portuguese Web Archive的存档，存档日期2016-05-19." MarketWatch （页面存档备份，存于互联网档案馆）. October 17, 2006. Retrieved October 17, 2006.
+^ Official Google Blog: Mowing with goats. Google. 2009-05-01 [2019-04-29]. （原始内容存档于2009-09-29）.
+^ Siegler, MG. My Day With The Google Goats. The Washington Post. 2009-05-03 [2019-04-29]. （原始内容存档于2012-11-12）.
+^ Sheep Mow Lawns. National Semiconductor. [2011-07-17]. （原始内容存档于1999-05-06）.
+^ Strand, Ginger. "Keyword: Evil （页面存档备份，存于互联网档案馆）." Retrieved April 9, 2008.
+^ Data center locations. Google. [2012-12-03]. （原始内容存档于2018-05-17） （英语）.
+^ 中央通信社. 亞洲最大 Google資料中心啟用. 2013-12-11 [2019-04-29]. （原始内容存档于2017-11-16）.
+^ Chiu Yu-Tzu, Google's largest Asian data center in Taiwan to boost cloud sector （页面存档备份，存于互联网档案馆） ZDNET, December 12, 2013
+^ Google opens first data centres in Asia （页面存档备份，存于互联网档案馆）11 December 2013
+^ Data Centers – Google. [2019-04-29]. （原始内容存档于2019-03-18）.
+^ Pandia Search Engine News – Google: one million servers and counting. Pandia Search Engine News. 2007-07-02 [2011-07-17]. （原始内容存档于2011-07-16）.
+^ Kuhn, Eric. CNN Politics – Political Ticker... Google unveils top political searches of 2009. CNN. 2009-12-18 [2019-04-29]. （原始内容存档于2012-10-20）.
+^ MapReduce. Portal.acm.org. [2011-07-17]. （原始内容存档于2011-09-21）.
+^ Czajkowski, Grzegorz. Sorting 1PB with MapReduce. Official Google Blog. Google, Inc. 2008-11-21 [2013-11-06]. （原始内容存档于2012-02-02）.
+^ Kennedy, Niall. Google processes over 20 petabytes of data per day. Niall Kennedy's Weblog. Niall Kennedy. 2008-01-08 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Schonfeld, Erick. Google Processing 20,000 Terabytes A Day, And Growing. TechCrunch. TechCrunch. 2008-01-09 [2019-04-29]. （原始内容存档于2012-02-02）.
+^ Google MentalPlex. Google, Inc. 2000-04-01 [2019-04-29]. （原始内容存档于2010-09-21）.
+^ Welcome to Google TiSP. Google, Inc. 2007-04-01 [2019-04-29]. （原始内容存档于2010-07-09）.
+^ Google Paper. Google, Inc. 2000-04-01 [2019-04-29]. （原始内容存档于2013-11-10）.
+^ Gmail Custom Time: Google makes custom time. Google (Google). 2011-04-14 [2019-04-29]. （原始内容存档于2013-11-04）.
+^ Schmidt, Eric. A different kind of company name. Official Google Blog. Google, Inc. 2010-04-01 [2019-04-29]. （原始内容存档于2010-05-30）.
+^ April Fools: Google Changes Name to Topeka. CBS News (CBS Interactive, Inc.). 2010-04-01 [2019-04-29]. （原始内容存档于2010-04-04）.
+^ Google's GMail Motion launched April 1. GMA News (GMA News). 2011-04-01 [2019-04-29]. （原始内容存档于2011-04-03）.
+^ Google Nose. Google, Inc. [2019-04-29]. （原始内容存档于2015-07-03）.
+^ Language Tools. Google, Inc. [2019-04-29]. （原始内容存档于2009-06-12）.
+^ Google Search Results for 'answer to life the universe and everything'. Google, Inc. [2019-04-29]. （原始内容存档于2019-03-13）.
+^ Google Search Results for 'recursion'. Google, Inc. [2019-04-29]. （原始内容存档于2019-03-13）.
+^ anagram search. Google, Inc. [2019-04-29]. （原始内容存档于2013-06-24）.
+^ Chan, John. Google celebrates World Cup with Gooooooooooal!. CNET Asia. 2010-06-09 [2019-04-29]. （原始内容存档于2011-08-10）.
+^ Information about the typeface Catull BQS. Identifont. [2019-04-29]. （原始内容存档于2019-02-04）.
+^ Google holiday logos. Google, Inc. [2019-04-29]. （原始内容存档于2009-05-23）.
+^ Google Doodles. [2019-04-29]. （原始内容存档于2019-03-20）.
+^ Daniel Terdiman. Google gets Pac-Man fever. Geek Gestalt. CNET. 2010-05-21 [2019-04-29]. （原始内容存档于2012-07-31）.
+^ Mayer, Marissa. Official Google Blog: PAC-MAN rules!. Googleblog.blogspot.com. 2010-05-23 [2019-04-29]. （原始内容存档于2010-12-02）.
+^ 详见Google Doodle - 吃豆人游戏上世 30 周年
+^ Jemima Kiss. Les Paul: Google's best doodle yet?. The Guardian. 2011-06-09 [2019-04-29]. （原始内容存档于2013-03-23）.
+^ 详见Google Doodle - Les Paul's 96th Birthday
+^ Doodle4Google Page. Google.com. [2019-04-29]. （原始内容存档于2010-07-30）.
+^ About the Foundation. Google, Inc. [2009-10-22]. （原始内容存档于2010-07-14）.
+^ Hafner, Katie. Philanthropy Google’s Way: Not the Usual. The New York Times. 2006-09-14 [2019-04-29]. （原始内容存档于2016-07-23）.
+^ Helft, Miguel. Philanthropy Google’s Way: Not the Usual. The New York Times. 2009-02-23 [2019-04-29]. （原始内容存档于2017-04-22）.
+^ Project 10 to the 100th. Google, Inc. [2019-04-29]. （原始内容存档于2011-07-10）.
+^ Van Burskirk, Elliot. Google Struggles to Give Away $10 million. Wired.com. 2010-06-28 [2019-04-29]. （原始内容存档于2012-05-01）.
+^ Twohill, Lorraine. $10 million for Project 10^100 winners. Google, Inc. 2010-09-24 [2019-04-29]. （原始内容存档于2010-09-26）.
+^ Google Struggles to Give Away $10 million. Google谷歌. [2019-04-29]. （原始内容存档于2018-11-30）.
+^ Google donating 1 million euros to IMO. 2011-01-20 [2011-07-17]. （原始内容存档于2011-07-24）.
+^ 
+跳转至：
+256.0 256.1 Google Giving. Google, Inc. [2019-04-29]. （原始内容存档于2017-11-02）.
+^ Cerf, Vinton. The Testimony of Mr. Vinton Cerf, Vice President and Chief Internet Evangelist, Google: 8. 2006-02-07 [2008-05-04]. （原始内容 (PDF)存档于2008-09-21）.
+^ CNN. EU slaps Google with record $2.7 billion fine. [2019-04-29]. （原始内容存档于2019-04-27）.
+^ Google’s goal: to organise your daily life （页面存档备份，存于互联网档案馆） Financial Times
+^ Google and the Search for the Future （页面存档备份，存于互联网档案馆） Wall Street Journal
+^ Cade, Metz. Google chief: Only miscreants worry about net privacy. The Register. 2009-12-07 [2019-04-29]. （原始内容存档于2019-03-21）.
+^ Privacy International 2007 Consulation Report (PDF). [2011-07-17]. （原始内容 (PDF)存档于2007-06-12）.
+^ Google ranked 'worst' on privacy （页面存档备份，存于互联网档案馆） BBC News, June 2007
+^ Delichatsios, Stefanie Alki; Sonuyi, Temitope, "Get to Know Google...Because They Know You" （页面存档备份，存于互联网档案馆）, MIT, Ethics and Law on the Electronic Frontier, 6.805, December 14, 2005
+^ No anonymity on future web says Google CEO. THINQ.co.uk. 2010-08-05 [2011-07-17]. （原始内容存档于2010-08-15）.
+^ Sherman; Sherman, Chris. Google power: unleash the full potential of Google. Emeryville, California: McGraw-Hill. 2005: 415. ISBN 0072257873. ...a look at Google's monopoly, algorithms, and privacy issues.
+^ Varghese, Sam. Google critic releases source code for proxy. The Age (Melbourne, Australia). 2005-01-12 [2019-04-29]. （原始内容存档于2016-01-22）.
+^ Agger, Michael. Google's Evil Eye: Does the Big G know too much about us?. Slate. 2007-10-10 [2019-04-29]. （原始内容存档于2011-09-07）.
+^ Graham, Jefferson. Google adds Facebook-like features to Gmail. USA Today. 2010-02-09 [2019-04-29]. （原始内容存档于2019-02-03）.
+^ Google censors itself for China. BBC. [2008-01-31]. （原始内容存档于2007-12-23）.
+^ Bill de Blasio, Office of the Public Advocate for the City of New York. Google: Disclose Now!. 2010-08-05 [2011-07-17]. （原始内容存档于2011-11-08）.
+^ Michael Liedtke, AP Technology Writer. Google grabs personal info off of Wi-Fi networks. Finance.yahoo.com. 2010-05-14 [2011-07-17]. （原始内容存档于2010-05-18）.
+^ Shiels, Maggie. Google admits wi-fi data blunder. BBC News. 2010-05-15 [2011-07-17]. （原始内容存档于2019-10-17）.
+^ U.S. intelligence mining data from nine U.S. Internet companies in broad secret program. The Washington Post. 2013-06-06 [2013-06-06]. （原始内容存档于2013-06-15）.
+^ Greenwald, Glenn. NSA taps in to internet giants' systems to mine user data, secret files reveal. The Guardian. 2013-06-06 [2013-06-06]. （原始内容存档于2013-06-07）.
+^ Google, Facebook, Dropbox, Yahoo, Microsoft And Apple Deny Participation In NSA PRISM Surveillance Program. Tech Crunch. 2013-06-06 [2013-06-06]. （原始内容存档于2013-06-07）.
+^ What the ...?. Google Official Blog. 2013-06-07 [2013-06-08]. （原始内容存档于2013-06-08）.
+^ 媒体曝上千家公司向美国政府提供情报 包括谷歌脸谱. [2014-06-03]. （原始内容存档于2016-03-13）.
+^ L_103724. 中国确认美棱镜项目对华窃密：微软谷歌均有配合. [2019-04-29]. （原始内容存档于2018-11-30）.
+^ 关于谷歌中国的最新声明. Google官方网站. 2010-03-23 [2010-02-23]. （原始内容存档于2010-03-25）.
+^ 谷歌时代结束 - Google中国名称已经改回. cnBeta. 2010-04-02 [2010-04-03]. （原始内容存档于2010-04-06）.
+^ 谷歌Logo失而复得 官方博客集体迁移？. [2019-04-29]. （原始内容存档于2017-05-13）.
+^ 
+跳转至：
+283.0 283.1 谷歌：中国不改言论审查就不会重返中国 （页面存档备份，存于互联网档案馆），美国之音, 11.05.2013
+^ Google（谷歌）中国的博客网志. [2010-05-08]. （原始内容存档于2010-05-07）.
+^ 中美互联网差异 -. [2019-04-29]. （原始内容存档于2018-11-30）.
+^ 谷歌服务在中国遭遇大规模干扰. 纽约时报中文网. 2014-06-03 [2019-04-29]. （原始内容存档于2015-08-05）.
+^ “六四”临近 谷歌多项在华服务被封. 华尔街日报中文网. 2014-06-03 [2019-04-29]. （原始内容存档于2017-11-15）.
+^ 天安门事件前夕谷歌被封锁. GreatFire.org. 2014-06-02 [2014-06-15]. （原始内容存档于2016-03-31）.
+^ Google 在中国被严重封网. 亚洲自由电台粤语部. 2014-06-02 [2014-06-15]. （原始内容存档于2014-08-12）.
+^ 六四25週年前 陸斷谷歌服務. 路透社（Yahoo!奇摩转载）. 2014-06-02 [2014-06-15]. （原始内容存档于2014-08-22）.
+^ Google透明度報告（資訊公開報告）. Google. 2014-05-31 [2019-04-29]. （原始内容存档于2017-05-15）.
+^ Transparency Report. www.google.com. [2017-11-28]. （原始内容存档于2017-09-16）.
+^ 採取行動 – Google. [2019-04-29]. （原始内容存档于2016-06-01）.
+^ 谷歌不承认CNNIC安全证书 .cn网站受影响. 观察者. 2015-04-02 [2015-04-02]. （原始内容存档于2019-10-17）.
+^ Google stops 'trusting' Chinese net regulator after lapse. BBC News. 2015-04-02 [2015-04-02]. （原始内容存档于2015-04-02）.
+^ 獨家》DVD出半小時就盜PO…霹靂布袋戲求償 男大生GG了-自由時報. [2019-04-29]. （原始内容存档于2018-12-31）.
+^ 脸谱泄密风波 （页面存档备份，存于互联网档案馆）脸谱泄密风波恐遭罚7.1兆美元 苹果、Google等可能面临更严格监管 2018-04-11 08:45杨又肇
+^ 谷歌新智能设备爆“窃听疑虑” （页面存档备份，存于互联网档案馆） 设计缺失？谷歌新智能设备爆 窃听疑虑 时间：2017/10/12 谷歌宣称已经更新了软件版本，不用再担心这个问题。
+^ 女人无法当科技主管 （页面存档备份，存于互联网档案馆）“女人无法当科技主管” 谷歌工程师发文：性别差距不是歧视上报快讯 2017年8月7日 下午12:00
+^ Matthew Day. Your Smart Light Can Tell Amazon and Google When You Go to Bed. Bloomberg. 2019-02-12 [2019-04-29]. （原始内容存档于2019-04-19）.
+^ 独家：谷歌锁定阿富汗政府账户 防止塔利班取得电邮--消息人士. 路透社. 2021-09-04 [2021-09-05]. （原始内容存档于2021-10-13） （中文）.
+^ Fascinating Number: Google Is Now 40% Of The Internet. 2013-08-17 [2019-04-29]. （原始内容存档于2018-08-02）.
+^ Gmail服務中斷 Google修復並致歉. Yahoo奇摩新闻. 2014-01-25 [2019-04-29]. （原始内容存档于2018-02-07）.
+^ 经济日报. Google當機 網友：世界末日 | 熱門話題 | 產業. 经济日报. [2019-03-14]. （原始内容存档于2019-10-17） （中文（台湾））.
+^ Needleman, Sam Schechner / Sarah E. Google服務一度大面積中斷，Gmail和YouTube等多個應用遭遇故障. 华尔街日报中文网. [2020-12-16]. （原始内容存档于2021-05-07） （中文（台湾））.
+^ 品玩. Google宕机45分钟，全世界网友急疯了. finance.sina.com.cn. 2020-12-15 [2020-12-16]. （原始内容存档于2020-12-23）.
+^ 网易. 全面崩溃！Google服务又一次全球宕机. tech.163.com. 2020-12-14 [2020-12-16]. （原始内容存档于2021-01-26）.
+外部链接[编辑]
+从维基百科的姊妹计划
+了解更多有关
+“Google”的内容
+
+	维基词典上的字词解释
+	维基共享资源上的多媒体资源
+	维基新闻上的新闻
+	维基语录上的名言
+	维基文库上的原始文献
+	维基教科书上的教科书和手册
+	维基学院上的学习资源
+	维基共享资源中相关的多媒体资源：Google分类
+Google 首页 不进行国家跳转
+Google 简体中文国际版（简体中文）
+Google 繁体中文国际版（繁体中文）
+Google 香港（繁体中文）
+Google 台湾（繁体中文）
+Google 企业信息 （页面存档备份，存于互联网档案馆）
+Google 官方博客（页面存档备份，存于互联网档案馆）（英文）
+Google 公益（英文）
+社交网络谷歌官方账号[编辑]
+Google LinkedIn
+Google的新浪微博（英文）
+Google的Facebook专页
+Google的Instagram账户
+Google的Twitter账户
+YouTube上的Google频道
+[显示]
+查论编
+Alphabet Inc.
+[显示]
+查论编
+[显示]
+查论编
+全球主要信息技术公司
+[显示]
+查论编
+主要软件公司
+[显示]
+查论编
+主要互联网公司
+[显示]
+查论编
+台湾搜索引擎
+Google主题技术主题互联网主题
+规范控制 	
+WorldCat IdentitiesBIBSYS: 4092379BNF: cb15026135n (data)GND: 10122609-3ISNI: 0000 0004 0635 6729J9U: 987007311977205171LCCN: no00095539NKC: kn20050213003NLA: 50414901SELIBR: 293303SUDOC: 110886259VIAF: 124291214
+分类：​纳斯达克上市公司Google美国互联网公司总部在美国的跨国公司山景城公司被防火长城封锁的网站万维网1998年成立的公司2004年首次公开募股美国科技公司美国电子公司跨国公司AI公司
